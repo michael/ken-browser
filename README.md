@@ -49,7 +49,6 @@ By selecting and combining facets the data not only can be filtered, also relati
 
 You can at any time get contextual information to a project shown in the result. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images).
 
-
 ## Data Management
 
 In order to maintain the data, in our first phase we're going to use Prose.io to create documents (such as student projects) and specify metadata (such as keywords) that powers the visualization. The data is stored on Github.com as a simple textfile, containing the metadata in a special [format](http://www.yaml.org/).
