@@ -35,7 +35,29 @@ Though we have various options here, I would propose a faceted browsing interfac
 We can still consider a node-link diagram for the result section, which might be visually more appealing but comes with drawbacks in terms of usability. However additional visual representations can be discussed and added later, based on individual use-cases.
 
 
-### Faceted Navigation
+## Faceted Navigation
+
+Instead of attempting to visualize all connections in one go, users decide which facets they are most interested in. Using this approach the number of considered documents can scale up to a high value. The workflow would look like so:
+
+1. Select a entity
+
+Choose the first facet you’re interested in from the entity tab on the left. The entities are ordered by their document frequency. The two bars next to the entities encode document frequency and average term frequency (only considering the matched documents). When hovering over an entity the concerned documents are temporarily highlighted to give you immediate feedback. After the mouse click a color (picked from a color scheme) will be assigned to the selection. The documents containing this entity are highlighted using a marker with that color. Documents that do not match are grayed out. The number of entity-mentions for a specific document is expressed using a number of small squares that conform to the
+frequency of all selected entities.
+
+2. Select another facet
+
+By selecting another facet (entity) the screen is updated accordingly. The matching documents for the second entity are tagged with a second color strip. Documents that contain all selected entities are displayed at maximum size while others, that only match one entity, appear smaller. All others are grayed out. The transition will be animated from one state to another to get a rough idea what is changing. This works the same way with 3+ selected entities. With respect to the available screen space we might want to limit the number of selected terms.
+
+3. Project details
+
+Once you have this visual overview in front of you, you’re ready to investigate the details and zoom into the details of one document. The view will change with a smooth zoom-in transition, while the current browsing context (entity selection) is preserved.
+Visual Document Explorer 3
+￼
+You are now exploring the selected entities within one document. You can zap through them using a bookmark analogy. This view is somehow close to actually reading the document. Eliminating the extra hop, from the entity bookmarks to the document viewer would probably make sense. We should talk about the possibility of integrating the Document Viewer with the Entity Bookmark view. The entity selection can be changed independently within both views (Matrix, Entity Bookmarks). You’d usually step back and forth between both views to explore the set of documents. It’s really important to make the current browsing context transparent to the user.
+
+4. Search and Sort
+
+From the Matrix View you’d be able to search within the current set of documents. You’d get immediate visual response to your search term in form of highlighted documents that match. Sorting the documents is also a use-case I identified. You’d be able to reorder the documents based on a sort criterion. The transition would be animated as well.
 
 ## Search by keyword
 
