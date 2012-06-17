@@ -62,18 +62,24 @@ You are now exploring the selected entities within one document. You can zap thr
 
    From the Matrix View you’d be able to search within the current set of documents. You’d get immediate visual response to your search term in form of highlighted documents that match. Sorting the documents is also a use-case I identified. You’d be able to reorder the documents based on a sort criterion. The transition would be animated as well.
 
+## Tasks
+
 ### Search by keyword
 
-It will be possible to search within the resultset by comparing the searchstring with the project description and assigned attributes.
+It will be possible to search within the resultset by comparing the searchstring with the project description and assigned attributes. Results will show up as you type.
 
-## Discovering relationships
+### Discovering relationships
 
-By selecting and combining facets the data not only can be filtered, also relationships between different entities (projects) may be revealed.
+By selecting and combining facets the data not only can be filtered, also relationships between different entities (projects) may be revealed. Or in other words, users might find related projects without explictly searching for them, which can be very useful.
 
-## Details on demand
+### Details on demand
 
-You can at any time get contextual information to a project shown in the result. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images).
+You can at any time get contextual information to a project shown in the resultset. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images). I'm going to mockup this dialogue as well, but let's talk first.
 
 ## Data Management
 
-In order to maintain the data, in our first phase we're going to use Prose.io to create documents (such as student projects) and specify metadata (such as keywords) that powers the visualization. The data is stored on Github.com as a simple textfile, containing the metadata in a special [format](http://www.yaml.org/).
+In order to maintain the data, in our first phase we're going to use Prose.io to create and maintain data-entries (such as student projects) and specify metadata (such as related subjects and involved people) that powers the visualization. The data will be securely stored in a Git Repository on Github. Actually it is stored as a simple textfile, containing the metadata in a special [format](http://www.yaml.org/) so we can automatically parse that files and populate the browser. 
+
+![](https://github.com/michael/ken/raw/master/assets/layout.png)
+
+I think this is a pretty good way to start, since it's very flexible one. We can add new metadata on demand etc. and include new entity types, such as research papers. In future, a more intuitive interface might be possible built on top of the Substance technology stack. But that shall not be part of our first iteration.
