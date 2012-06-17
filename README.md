@@ -7,7 +7,7 @@ Ken is a visual browsing interface for exploring resources of different kinds. L
 
 One data entry to be shown in Ken will then look like so:
 
-```
+```yml
 ---
 type: project
 name: "Polished Off"
