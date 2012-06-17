@@ -34,7 +34,7 @@ A detailed project description, that can be formatted using [Markdown](http://da
 
 Though we have various options here, I would propose a faceted browsing interface using a matrix plot to display the results. The visualization will compute a layout to arrange squares (= Student Projects) on the screen in a space-efficient way. Once the selection changes, the screen updates accordingly using smooth transitions.
 
-We can still consider a Node Link Diagram (instead or in addition to the Matrix Plot), but we should be aware that they come with drawbacks in terms of usability. However, additional visual representations can be discussed and added later, based on individual use-cases.
+We can still consider a [Node Link Diagram](http://mbostock.github.com/d3/ex/force.html) (instead or in addition to the Matrix Plot), but we should be aware that they come with drawbacks in terms of usability. However, additional visual representations can be discussed and added later, based on individual use-cases.
 
 
 ### Faceted data exploration
