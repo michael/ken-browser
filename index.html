@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Ken - Visual Knowledge Browser</title>
+
+    <!-- templates -->
+    <script type="text/x-ejs-template" name="browser">
+      <div id="facets"></div>
+      <div id="documents" class="surface">Loading...</div>
+      <div id="document_details"></div>
+    </script>
+
+    <script type="text/x-ejs-template" name="document">
+      <div class="mask"></div>
+      <div class="details">
+        <a href="#" class="button hide-details">Close</a>
+        <div class="surface">
+        <div class="document-info cf bleed">
+            <img class="thumbnail" src="<%= document.get('thumbnail') %>"/>
+            <h3><%= document.get('title') %></h3>
+            <div class="updated_at small">Updated on <%= new Date(document.get('updated_at')).toDateString() %></div>
+            <p><%= document.get('description') %></p>
+        </div>
+    
+        <div class="document-metadata cf">
+          <h3>Metadata</h3>
+          <% document.type.properties().each(function(p, pkey) { %>
+            <% if (p.meta.facet && document.get(pkey).length > 0) { %>
+              <ul class="facet col-2 small">
+                <li class="facet-name"><h3><%= p.name %></h3></li>
+                <% document.get(pkey).each(function(value) { %>
+                  <li class="facet"><%= value %></li>
+                <% }); %>
+              </ul>
+            <% } %>
+          <% }); %>
+          </div>
+        </div>
+        <a class="big-button" href="<%= document.get('pdf') %>" target="_blank"><span>Read Document</span></a>
+      </div>
+    </script>
+
+    <script type="text/x-ejs-template" name="documents">
+      <h3><strong><%= documents.length %></strong> <%= documents.length === 1 ? "Document" : "Documents" %></h3>
+      <% _.each(documents, function(document) { %>
+        <div class="document cf bleed">
+          <a href="#" class="toggle-document cf col-6" document="<%= document._id %>">
+            <img class="thumbnail" src="<%= document.get('thumbnail') %>"/>
+            <h3 class="title"><%= document.get('title') %></h3>
+            <div class="updated_at small">Updated on <%= new Date(document.get('updated_at')).toDateString() %></div>
+            <div class="matches small">
+              <% _.each(document.matches, function(match) { %>
+                <span style="background: <%= match.color %>"><%= match.value %></span>
+              <% }); %>
+            </div>
+          </a>
+
+          </div>
+        </div></div>
+      <% }); %>
+    </script>
+
+    
+    <script type="text/x-ejs-template" name="facets">
+      <% var count = 0; %>
+      <% filters.each(function(f, key) { %>
+        <% if (f.property.all('values').length === 0) return; %>
+        <% count += 1; %>
+        <div class="filter small">
+          <% var color = f.color; %>
+          <div class="name" style="background: <%= color %>;">
+            <h3><%= f.property.name %></h3>
+            <div class="count">
+              <% f.selectedValues.each(function(v) { %>
+                <div class="value"></div>
+              <% }); %>
+            </div>
+          </div>
+          <div class="values">
+            <% f.property.all('values').sort(VALUES_BY_FREQUENCY).each(function(value, key) { %>
+              <% var active = f.selectedValues.get(key); %>
+              <% if (active) { %>
+                <a class="remove-value" style="background: <%= color %>; opacity: 0.7" href="#" property="<%= f.property.key %>" val="<%= value.val %>"><%= value.val %> <div class="frequency"><%= value.referencedObjects.length %></div></a>
+              <% } else { %>
+                <a class="add-value" href="#" property="<%= f.property.key %>" val="<%= value.val %>"><%= value.val %> <div class="frequency"><%= value.referencedObjects.length %></div></a>
+              <% } %>
+            <% }); %>
+          </div>
+        </div>
+      <% }); %>
+      <% if (count==0) { %>
+        No facets
+      <% } %>
+    </script>
+
+
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/underscore.js"></script>
+    <script type="text/javascript" src="lib/data.js"></script>
+    <script type="text/javascript" src="lib/backbone.js"></script>
+    <script type="text/javascript" src="javascripts/countries.js"></script>
+    <script type="text/javascript" src="javascripts/helpers.js"></script>
+    
+    <script type="text/javascript" src="javascripts/seed.js"></script>
+    <script type="text/javascript" src="javascripts/model.js"></script>
+    <script type="text/javascript" src="javascripts/application.js"></script>
+
+    <script type="text/javascript">
+      $(function() {
+        window.app = new Application();
+        app.render();
+
+        // Start responding to routes
+        window.router = new Router({});
+        Backbone.history.start();
+      });
+    </script>
+    
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" media="all" href="stylesheets/reset.css"/>
+    <link rel="stylesheet" type="text/css" media="all" href="stylesheets/style.css"/>
+  </head>
+  <body>
+    <div id="container">
+      <div id="header">
+        <h1><a href="/">Ken - Visual Knowledge Browser</a></h1>
+      </div>
+      <div id="main" class="cf"></div>
+      <div id="push"></div>
+    </div>
+    <div id="footer"></div>
+  </body>
+</html>
+
