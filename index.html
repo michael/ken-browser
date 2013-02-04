@@ -7,13 +7,53 @@
     <!-- Browser  -->
     <script type="text/x-ejs-template" name="browser">
       <div id="facets"></div>
-      <div id="matrix" class="surface">Loading...</div>
+      <div id="matrix" class="surface"></div>
       <div id="details"></div>
+    </script>
+
+    <!-- Details  -->
+    <script type="text/x-ejs-template" name="details">
+      <a class="image" href="<%= object.get('website') %>" target="_blank">
+        <img src="<%= object.properties.image %>"/>
+      </a>
+      <div class="details-wrapper">
+      <% if (object.get('website')) { %>
+        <h1><a href="asdfasd"><%= object.get('name') %></a></h1>
+      <% } else { %>
+        h1><%= object.get('name') %></h1>
+      <% } %>
+      <div class="abstract"><%= object.get('abstract') %></div>
+      <% _.each(object.type().properties, function(p, key) { %>
+        <% if (p.meta && p.meta.details) { %>
+          <div class="property">
+            <div class="property-name"><%= p.name %></div>
+            <div class="values">
+              <% values = object.get(key); %>
+              <% values = _.isArray(values) ? values : [values] %>
+              <% _.each(values, function(val) { %>
+                <% var color = filters[key] && filters[key][val] ? filters[key][val].color : null %>
+                <span style="background: <%= color %>"><%= val %></span>
+              <% }); %>
+            </div>
+          </div>          
+        <% } %>
+      <% }); %>
+      </div>
     </script>
 
     <!-- Item  -->
     <script type="text/x-ejs-template" name="item">
-      <div class="item"><%= item.properties.name %></div>
+      <div class="item" id="<%= _.htmlId(item._id) %>" data-id="<%= item._id %>">
+        <img src="<%= item.properties.image %>"/>
+        <% if (matches.length > 0) { %>
+          <div class="markers">
+            <% _.each(matches, function(match) { %>
+              <div class="marker" style="background: <%= match.color %>"></div>
+            <% }); %>
+          </div>
+        <% } %>
+        <div class="name"><%= item.properties.name %></div>
+      </div>
     </script>
 
     <!-- Facets -->
@@ -23,16 +63,28 @@
       <% _.each(facets, function(f, key) { %>
         <div class="filter">
           <div class="filter-name"><%= f.name %></div>
-
           <div class="selected-values">
             <% _.each(f.selectedValues, function(val) { %>
-              <a href="#" class="value remove" data-property="<%= key %>" data-value="<%= val.val %>"><%= val.val %> </a>
+              <a href="#" class="value remove" style="background: <%= val.color %>" data-property="<%= key %>" data-value="<%= val.val %>"><%= val.val.toLowerCase() %>
+                <div class="indicators">
+                  <div class="frequency"><%= val.objects.length %></div>
+                  <div class="related-objects" style="width: <%= f.scale(val.relatedObjects.length) %>px"></div>
+                  <div class="matching-objects" style="width: <%= f.scale(val.objects.length) %>px"></div>
+                </div>
+              </a>
             <% }); %>
           </div>
 
           <div class="available-values">
             <% _.each(f.availableValues, function(val) { %>
-              <a href="#" class="value add" data-property="<%= key %>" data-value="<%= val.val %>"><%= val.val %> (<%= val.objects.length %>)</a>
+              <a href="#" class="value add<%= val.relatedObjects.length > 0 ? " related" : "" %>" data-property="<%= key %>" data-value="<%= val.val %>">
+                <%= val.val.toLowerCase() %>
+                <div class="indicators">
+                  <div class="frequency"><%= val.objects.length %></div>
+                  <div class="related-objects" style="width: <%= f.scale(val.relatedObjects.length) %>px"></div>
+                  <div class="matching-objects" style="width: <%= f.scale(val.objects.length) %>px"></div>
+                </div>
+              </a>
             <% }); %>
           </div>
         </div>
@@ -45,7 +97,9 @@
     <script type="text/javascript" src="lib/backbone.js"></script>
 
     <!-- Data -->
-    <script type="text/javascript" src="data/seed.js"></script>
+    <!--<script type="text/javascript" src="data/seed.js"></script>-->
+
+    <!--<script type="text/javascript" src="projects.js"></script>-->
 
     <script type="text/javascript" src="src/util.js"></script>
     <script type="text/javascript" src="src/model.js"></script>
@@ -66,9 +120,12 @@
       });
     </script>
     
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'> -->
+
+    <link rel="stylesheet" type="text/css" media="all" href="fonts/open-sans.css"/>
     <link rel="stylesheet" type="text/css" media="all" href="stylesheets/reset.css"/>
     <link rel="stylesheet" type="text/css" media="all" href="stylesheets/style.css"/>
+    
   </head>
   <body>
     <div id="container">
@@ -76,7 +133,7 @@
         
       </div>
       <div id="main">
-        Main Content Foo
+        Main Content
       </div>
     </div>
   </body>

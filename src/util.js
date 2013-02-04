@@ -4,6 +4,11 @@ _.tpl = function(tpl, ctx) {
   return _.template(source, ctx);
 };
 
+
+_.htmlId = function(id) {
+  return id.replace(/\./g, '_').replace(/\//g, '_').replace(/_/, '');
+}
+
 // Color Pool
 // --------------
 
@@ -50,4 +55,24 @@ var ColorPool = function(colors) {
     getNext: getNext,
     reset: reset
   }
+};
+
+
+// Request abstraction
+// --------------
+
+_.request = function(method, path, data) {
+  var cb = _.last(arguments);
+  $.ajax({
+    type: method,
+    url: path,
+    // data: data !== undefined ? JSON.stringify(data) : null,
+    dataType: 'json',
+    // contentType: "application/json",
+    success: function(res) { 
+      console.log('RESULT', res);
+      cb(null, res);
+    },
+    error: function(err) { console.log(err.responseText); cb(JSON.parse(err.responseText)); }
+  });
 };

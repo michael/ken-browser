@@ -80,6 +80,9 @@ collections.cells = {
         y: parseInt(Math.random()*800-400, 10)
       };
 
+      // console.log('remove', $('#'+htmlId(item._id)).find('.name'));
+      $('#'+htmlId(item._id)).find('.name').remove();
+
       $('#'+htmlId(item._id)).css({
         'left': randPos.x+'px',
         'top': randPos.y+'px',
@@ -89,7 +92,6 @@ collections.cells = {
     });
 
     _.delay(remove, 1000);
-
   }
 };
 
