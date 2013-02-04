@@ -4,7 +4,7 @@ Ken is a visual browsing interface for exploring resources of different kinds. L
 
 ![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
 
-### Faceted data exploration
+<!--### Faceted data exploration
 
 Instead of attempting to visualize all connections in one go, users decide which aspects they are most interested in. Using this approach the number of considered documents can scale up to a high value. This concept is referred to in literature as [Faceted Search](http://en.wikipedia.org/wiki/Faceted_search). A possible user workflow would look like so:
 
@@ -46,7 +46,7 @@ By selecting and combining facets the data not only can be filtered, also relati
 
 You can at any time get contextual information to a project shown in the resultset. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images).
 
-
+-->
 
 ## Visualize your own data
 
@@ -65,7 +65,7 @@ By default Ken loads a static data-set, that can be found in `data/projects.json
 
 Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the specified type.
 
-### Adjust the data-type
+### Data Type
 
 In order to use your own domain data, you need to justify the data type. A data type consists of a number of property declarations. Supposing your dataset contains keywords associated with each object, a property definition could look like this:
 	
@@ -83,7 +83,7 @@ In order to use your own domain data, you need to justify the data type. A data 
 
 Property definitions are pretty straight forward, the key determines the internal property identifier. `name` is a human readable description of the property. `type` defines the allowed values for that property. It can be `string`, `number` or `boolean`. `unique` then specifies whether there can be one value `true` or multiple values `false` for that property. `facet` and `details` are specific to Ken. They define where a property should be exposed as a facet in the Ken interface, and if it should be shown in the details dialog.
 
-### Provide objects
+### Data Objects
 
 According to your type definition you can now populate the collection with concrete objects you wanna display. Here's an example of an object in our projects collection.
 
@@ -91,8 +91,10 @@ According to your type definition you can now populate the collection with concr
     {
       "_id": "project-a",
       "name": "Project A",
-      "keywords": ["3D Modelling", ""],
-      "image"
+      "keywords": ["3D Modelling", "Visualization"],
+      "locations": ["Linz", "Vienna", "London"],
+      "image": "http://example.com/image.png",
+      "abstract": "Project A is there to demonstrate how a visual knowledge browser can be populated with custom data"
     }
     ...
     
@@ -104,4 +106,22 @@ There are a number of required properties that are used by the Ken interface. Th
 - `name` (required) - A human readable title of the object
 - `abstract` (optional) - A short description (shown in the details panel)
 - `website` (optional) - A URL pointing to an external webpage
+- `image` (option) - A image URL idaelly 1:1 aspect ratio. Shown in the plot and on the detail page.
 
+
+## Data Proxy
+
+You probably have a data-service already. However, the data needs to be converted into the Data.Collection format, so Ken can read it. This is rather simple. We wrote such a proxy ourself, in order to turn the output of the New York Times Most Popular API into a representation our browser understands. We also use the proxy to generate a bigger dataset (we need multiple requests against the NYTimes API) which we cache so initial loading is fast. Every hour we regenerate the dataset so users see the latest stories of the New York times.
+
+
+## Adjust stylesheets
+
+You can adjust the style of your knowledge browser.
+
+- `stylesheets/style.css` - Contains the page layout
+- `stylesheets/ken.css` - Contains the styles for the matrix plot
+
+
+## Adjust Javascript
+
+Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request.
