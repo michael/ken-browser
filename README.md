@@ -4,8 +4,6 @@ Ken is a visual browsing interface for exploring resources of different kinds. L
 
 ![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
 
-
-
 ### Faceted data exploration
 
 Instead of attempting to visualize all connections in one go, users decide which aspects they are most interested in. Using this approach the number of considered documents can scale up to a high value. This concept is referred to in literature as [Faceted Search](http://en.wikipedia.org/wiki/Faceted_search). A possible user workflow would look like so:
@@ -48,4 +46,25 @@ By selecting and combining facets the data not only can be filtered, also relati
 
 You can at any time get contextual information to a project shown in the resultset. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images).
 
-Please bring in your feedback and create [tickets](http://github.com/michael/ken) on Github, so we can discuss certain aspects independently.
+
+
+## Visualize your own data
+
+Ken has been built for arbitary data-sets. So you should use it to display your own collection of things. It does not matter if it's a set of projects, a list of publications or a selection of products your company offers.
+
+
+### Check out the source code
+
+First off, you should create your own fork on Github, in order to maintain your customized application of Ken. Once you have done that, clone the repo.
+
+    $ git clone git@github.com:your_user/ken.git
+    
+    
+### Adjust data
+
+By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly to make yourself comfortable with the data format.
+
+Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the described type.
+
+### Adjust the data-type
+
