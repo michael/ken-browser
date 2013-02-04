@@ -55,7 +55,7 @@ Ken has been built for arbitary data-sets. So you should use it to display your 
 
 ### Check out the source code
 
-First off, you should create your own fork on Github, in order to maintain your customized application of Ken. Once you have done that, clone the repo.
+First off, you are encouraged to create your own fork on Github, in order to maintain your customized application of Ken. Once you have done that, just clone the fresh repo.
 
     $ git clone git@github.com:your_user/ken.git
     
@@ -125,3 +125,8 @@ You can adjust the style of your knowledge browser.
 ## Adjust Javascript
 
 Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request.
+
+
+## Keep in sync with the original repo
+
+Make sure you pull in changes from the original repo from time to time so you can utilize the latest features and benefit from bugfixes.
