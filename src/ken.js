@@ -285,6 +285,7 @@ Ken.Matrix = Backbone.View.extend({
 
     var cols = computeCols(this.model.filteredCollection.objects.length, width, height);
     var size = Math.floor(width / cols);
+    if (size>300) size = 300;
 
     _.each(this.model.filteredCollection.objects, function(item, i) {
       item.pos = {
@@ -469,19 +470,19 @@ Ken.Browser = Backbone.View.extend({
   },
 
   unhighlightValue: function(e) {
-    // $('#matrix .item').removeClass('eased');
+    $('#matrix .item').removeClass('highlighted');
     return false;
   },
 
   highlightValue: function(e) {
-    // var prop = $(e.currentTarget).attr('data-property');
-    // var val = $(e.currentTarget).attr('data-value');
-    // $('#matrix .item').addClass('eased');
-    // var objects = this.model.valueMap[prop][val];
+    var prop = $(e.currentTarget).attr('data-property');
+    var val = $(e.currentTarget).attr('data-value');
+    $('#matrix .item').removeClass('highlighted');
+    var objects = this.model.valueMap[prop][val];
 
-    // _.each(objects, function(o) {
-    //   $('#'+_.htmlId(o._id)).removeClass('eased');
-    // });
+    _.each(objects, function(o) {
+      $('#'+_.htmlId(o._id)).addClass('highlighted');
+    });
     return false;
   },
 
