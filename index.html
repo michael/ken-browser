@@ -13,12 +13,13 @@
 
     <!-- Details  -->
     <script type="text/x-ejs-template" name="details">
-      <a class="image" href="<%= object.get('website') %>" target="_blank">
+      <a class="close-details image" href="#">
         <img src="<%= object.properties.image %>"/>
+        <div class="label">Close</div>
       </a>
       <div class="details-wrapper">
       <% if (object.get('website')) { %>
-        <h1><a href="asdfasd"><%= object.get('name') %></a></h1>
+        <h1><a target="_blank" href="<%= object.get('website') %>"><%= object.get('name') %></a></h1>
       <% } else { %>
         h1><%= object.get('name') %></h1>
       <% } %>
@@ -65,7 +66,7 @@
           <div class="filter-name"><%= f.name %></div>
           <div class="selected-values">
             <% _.each(f.selectedValues, function(val) { %>
-              <a href="#" class="value remove" style="background: <%= val.color %>" data-property="<%= key %>" data-value="<%= val.val %>"><%= val.val.toLowerCase() %>
+              <a href="#" class="value remove" style="background: <%= val.color %>" data-property="<%= key %>" data-value="<%= val.val %>"><%= val.val.toLowerCase().substr(0, 36) %>
                 <div class="indicators">
                   <div class="frequency"><%= val.objects.length %></div>
                   <div class="related-objects" style="width: <%= f.scale(val.relatedObjects.length) %>px"></div>
@@ -78,7 +79,7 @@
           <div class="available-values">
             <% _.each(f.availableValues, function(val) { %>
               <a href="#" class="value add<%= val.relatedObjects.length > 0 ? " related" : "" %>" data-property="<%= key %>" data-value="<%= val.val %>">
-                <%= val.val.toLowerCase() %>
+                <%= val.val.toLowerCase().substr(0, 36) %>
                 <div class="indicators">
                   <div class="frequency"><%= val.objects.length %></div>
                   <div class="related-objects" style="width: <%= f.scale(val.relatedObjects.length) %>px"></div>
@@ -120,17 +121,19 @@
       });
     </script>
     
-    <!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'> -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" type="text/css" media="all" href="fonts/open-sans.css"/>
+    <!-- <link rel="stylesheet" type="text/css" media="all" href="fonts/open-sans.css"/> -->
     <link rel="stylesheet" type="text/css" media="all" href="stylesheets/reset.css"/>
     <link rel="stylesheet" type="text/css" media="all" href="stylesheets/style.css"/>
+    <link rel="stylesheet" type="text/css" media="all" href="stylesheets/ken.css"/>
     
   </head>
   <body>
     <div id="container">
       <div id="header">
-        
+        <div class="title">Most Popular on <a href="http://nytimes.com">NYTimes.com</a></div>
+        <div class="powered-by">powered by <a target="_blank" href="http://interior.substance.io/modules/ken.html">Substance Ken</a> and the <a target="_blank" href="http://developer.nytimes.com/docs/read/most_popular_api">New York Times API</a></div>
       </div>
       <div id="main">
         Main Content

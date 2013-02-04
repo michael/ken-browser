@@ -38,9 +38,15 @@ function convertNYTArticles(data) {
           "type": "string",
           "unique": true,
           "meta": {
-            "facet": true,
+            // "facet": true,
             "details": true
           }
+        },
+
+        "published_date": {
+          "name": "Published Date",
+          "type": "date",
+          "unique": true
         },
 
         "website": {
@@ -59,6 +65,16 @@ function convertNYTArticles(data) {
           }
         },
 
+        "persons": {
+          "name": "Persons",
+          "type": "string",
+          "unique": false,
+          "meta": {
+            "facet": true,
+            "details": true
+          }
+        },
+
         "image": {
           "name": "Image",
           "type": "string",
@@ -69,6 +85,16 @@ function convertNYTArticles(data) {
           "name": "Abstract",
           "type": "string",
           "unique": true
+        },
+
+        "section": {
+          "name": "Section",
+          "type": "string",
+          "unique": true,
+          "meta": {
+            "facet": true,
+            "details": true
+          }
         },
 
         "subjects": {
@@ -92,17 +118,20 @@ function convertNYTArticles(data) {
     if (a.media && a.media[0] && a.media[0]["media-metadata"][8]) {
       image = a.media[0]["media-metadata"][8].url;
     }
-
+    if (!image) return; // skip non-image articles
     res.objects.push({
       _id: a.asset_id+"",
       name: a.title,
       abstract: a.abstract,
+      section: a.section,
       organiszations: a.org_facet ? a.org_facet : [],
       subjects: a.des_facet ? a.des_facet : [],
       locations: a.geo_facet ? a.geo_facet : [],
+      persons: a.per_facet ? a.per_facet : [],
       author: a.byline.trim() ? a.byline : "Anonymous",
       image: image,
-      website: a.url
+      website: a.url,
+      published_date: a.published_date
     });
   });
 

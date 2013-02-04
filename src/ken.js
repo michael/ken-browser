@@ -9,9 +9,9 @@ var Ken = {};
 // ------------
 
 Ken.COLOR_PALETTES = {
-  "greenish": ["#afc59c", "#bcc97b", "#d8c46f"],
-  "blueish": ["#a377b8", "#6c6db4", "#6c9db4"],
-  "redish": ["#e3ae78", "#df8682", "#cb829b"]
+  "greenish": ["#687E00", "#4E451A", "#4C7F1F"],
+  "blueish": ["#135574", "#242443", "#22102F"],
+  "redish": ["#7A1B15", "#5E0A45", "#632A08"]
 };
 
 // Ken.Session
@@ -465,6 +465,7 @@ Ken.Facets = Backbone.View.extend({
 Ken.Browser = Backbone.View.extend({
   events: {
     'click .item': 'toggleDetails',
+    'click .close-details': 'closeDetails',
     'mouseover a.value': 'highlightValue',
     'mouseout a.value': 'unhighlightValue'
   },
@@ -486,12 +487,16 @@ Ken.Browser = Backbone.View.extend({
     return false;
   },
 
+  closeDetails: function() {
+    $('#matrix .item').removeClass('eased');
+    this.prevId = null;
+    return this.$('#details').hide();
+  },
+
   toggleDetails: function(e) {
     var id = $(e.currentTarget).attr('data-id');
     if (id === this.prevId) {
-      $('#matrix .item').removeClass('eased');
-      this.prevId = null;
-      return this.$('#details').hide();
+      return this.closeDetails();
     }
 
     this.prevId = id;
