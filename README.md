@@ -2,39 +2,8 @@
 
 Ken is a visual browsing interface for exploring resources of different kinds. Let's suppose our first usecase will be browsing student projects in a visual manner.
 
-![](https://github.com/michael/ken/raw/master/assets/layout.png)
+![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
 
-
-## The data
-
-One data entry to be shown in the browser will then look like so:
-
-```yml
----
-type: project
-name: "Polished Off"
-image: "http://f.cl.ly/items/1o363t351s47371R3X2f/polished-off.png"
-subjects:
-- Animation
-- Visual effects
-assets:
-  videos:
-  - http://vimeo.com/video1
-  images:
-  - http://example.com/image2
-  documents: 
-  - http://example.com/document1.pdf
-  - http://example.com/document2.pdf
----
-
-A detailed project description, that can be formatted using [Markdown](http://daringfireball.net/projects/markdown/).
-```
-
-## The visualization
-
-Though we have various options here, I would propose a faceted browsing interface using a matrix plot to display the results. The visualization will compute a layout to arrange squares (= Student Projects) on the screen in a space-efficient way. Once the selection changes, the screen updates accordingly using smooth transitions.
-
-We can still consider a [Node Link Diagram](http://mbostock.github.com/d3/ex/force.html) (instead or in addition to the Matrix Plot), but we should be aware that they come with drawbacks in terms of usability. However, additional visual representations can be discussed and added later, based on individual use-cases.
 
 
 ### Faceted data exploration
@@ -65,7 +34,7 @@ Here's a number of tasks concern users of the system. We're going to optimize th
 
 ### Guided exploration
 
-You don't need to know what you're looking for first. The visualization guides you through the dataset. You can pick aspects that match the current dataset to make sense of the data shown.
+You don't need to know what you're looking at first. The visualization guides you through the dataset. You can pick aspects that match the current dataset to make sense of the data shown.
 
 ### Search by keyword
 
@@ -77,14 +46,6 @@ By selecting and combining facets the data not only can be filtered, also relati
 
 ### Details on demand
 
-You can at any time get contextual information to a project shown in the resultset. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images). I'm going to mockup this dialogue as well, but let's talk first.
-
-## Data Management
-
-In order to maintain the data, in our first phase we're going to use Prose.io to create and maintain data-entries (such as student projects) and specify metadata (such as related subjects and involved people) that powers the visualization. The data will be securely stored in a Git Repository on Github. Actually it is stored as a simple textfile, containing the metadata in a special [format](http://www.yaml.org/) so we can automatically parse that files and populate the browser.
-
-![](https://github.com/michael/ken/raw/master/assets/data-editor.png)
-
-I think this is a pretty good way to start, since it's very flexible. We can add new metadata on demand etc. and include new entity types, such as research papers. In future, a more intuitive interface might be possible built on top of the Substance technology stack. But that will not be part of our first iteration.
+You can at any time get contextual information to a project shown in the resultset. This detail view reveals all the meta-information such as the project description, involved people and associated assets (such as videos and images).
 
 Please bring in your feedback and create [tickets](http://github.com/michael/ken) on Github, so we can discuss certain aspects independently.
