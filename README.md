@@ -59,12 +59,49 @@ First off, you should create your own fork on Github, in order to maintain your 
 
     $ git clone git@github.com:your_user/ken.git
     
-    
 ### Adjust data
 
-By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly to make yourself comfortable with the data format.
+By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly and make yourself comfortable with the data format.
 
-Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the described type.
+Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the specified type.
 
 ### Adjust the data-type
+
+In order to use your own domain data, you need to justify the data type. A data type consists of a number of property declarations. Supposing your dataset contains keywords associated with each object, a property definition could look like this:
+	
+    ...
+    "subjects": {
+      "name": "Keywords",
+      "type": "string",
+      "unique": false,
+      "meta": {
+      "facet": true,
+      "details": true
+      }
+    },
+    ...
+
+Property definitions are pretty straight forward, the key determines the internal property identifier. `name` is a human readable description of the property. `type` defines the allowed values for that property. It can be `string`, `number` or `boolean`. `unique` then specifies whether there can be one value `true` or multiple values `false` for that property. `facet` and `details` are specific to Ken. They define where a property should be exposed as a facet in the Ken interface, and if it should be shown in the details dialog.
+
+### Provide objects
+
+According to your type definition you can now populate the collection with concrete objects you wanna display. Here's an example of an object in our projects collection.
+
+    ...
+    {
+      "_id": "project-a",
+      "name": "Project A",
+      "keywords": ["3D Modelling", ""],
+      "image"
+    }
+    ...
+    
+    
+### Predfined properties
+
+There are a number of required properties that are used by the Ken interface. Those are:
+
+- `name` (required) - A human readable title of the object
+- `abstract` (optional) - A short description (shown in the details panel)
+- `website` (optional) - A URL pointing to an external webpage
 
