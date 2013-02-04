@@ -512,7 +512,7 @@ Ken.Browser = Backbone.View.extend({
       filters: this.model.filters
     }, el: this.$('#details')});
 
-    this.$('#details').show(); // addClass('active');
+    this.$('#details').show();
 
     this.details.render();
     return false;
