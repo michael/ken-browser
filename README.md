@@ -14,14 +14,18 @@ Ken has been built for arbitary data-sets. So you should use it to display your 
 
 First off, you are encouraged to create your own fork on Github, in order to maintain your customized application of Ken. Once you have done that, just clone the fresh repo.
 
-    $ git clone git@github.com:your_user/ken.git
+```bash
+$ git clone git@github.com:your_user/ken.git
+```
     
 ### Run locally
 
 When developing locally, note that your browser may enforce strict permissions for reading files out of the local file system. So in order to run Ken on your computer, you must have a local web server. For example, you can run Python's built-in server:
 
-	$ cd ken
-	$ python -m SimpleHTTPServer 8888 &
+```bash
+$ cd ken
+$ python -m SimpleHTTPServer 8888 &
+```
     
 ### Adjust the data
 
