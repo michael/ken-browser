@@ -16,7 +16,14 @@ First off, you are encouraged to create your own fork on Github, in order to mai
 
     $ git clone git@github.com:your_user/ken.git
     
-### Adjust data
+### Run locally
+
+When developing locally, note that your browser may enforce strict permissions for reading files out of the local file system. So in order to run Ken on your computer, you must have a local web server. For example, you can run Python's built-in server:
+
+	$ cd ken
+	$ python -m SimpleHTTPServer 8888 &
+    
+### Adjust the data
 
 By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly and make yourself comfortable with the data format.
 
