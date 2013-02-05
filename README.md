@@ -35,7 +35,9 @@ Ken gets powered by a so called `Data.Collection` a simple data format, that can
 
 You can change the dataset that gets loaded by default by changing one line in index.html.
 
-	window.app = new Application({ dataset: "data/my_projects.json"});
+```js
+window.app = new Application({ dataset: "data/my_projects.json"});
+```
 
 ### Data Type
 
