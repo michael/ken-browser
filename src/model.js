@@ -112,12 +112,24 @@ function convertNYTArticles(data) {
   };
 
   _.each(data.results, function(a) {
-    console.log("article", a);
-
+    
     var image = "";
-    if (a.media && a.media[0] && a.media[0]["media-metadata"][8]) {
-      image = a.media[0]["media-metadata"][8].url;
+    if (a.media && a.media[0] && a.media[0]["media-metadata"]) {
+      
+      // Try to find super large thumb
+      var asset = _.find(a.media[0]["media-metadata"], function(a){ return a.format === "square320"; });
+      // Take smaller thumb
+      if (asset) {
+        image = asset.url;
+      } else {
+        asset = _.find(a.media[0]["media-metadata"], function(a){ return a.format === "Standard Thumbnail"; });
+        console.log('asset found', asset);
+
+        if (asset) image = asset.url; // a.media[0]["media-metadata"][4].url;
+        if (image) image = image.replace(/thumbStandard.*\.jpg$/g, 'square320.jpg');
+      }
     }
+
     if (!image) return; // skip non-image articles
     res.objects.push({
       _id: a.asset_id+"",
@@ -142,12 +154,20 @@ function convertNYTArticles(data) {
 // Load Items to populate the browser
 // ----------------
 
-function loadItems(search, cb) {
+function loadItems(file, cb) {
   // var path = 'http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/1.jsonp?api-key=f00d0caa1fee5d169603d9d13596d188:8:67272438'; 
+  // var path = 'http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/1.json?api-key=f00d0caa1fee5d169603d9d13596d188:8:67272438'; 
 
-  $.getJSON('./data/articles.json', function(data) {
-    var rawCollection = convertNYTArticles(data);
-    var collection = new Data.Collection(rawCollection);
+  $.getJSON(file, function(data) {
+
+    console.log("file", file);
+
+    if (file.indexOf('raw')>=0) {
+      var data = convertNYTArticles(data);
+    }
+
+    console.log(JSON.stringify(data, null, '  '));
+    var collection = new Data.Collection(data);
     var session = new Ken.Session(collection);
     cb(null, session);
   })

@@ -23,6 +23,7 @@ var Application = Backbone.View.extend({
   el: '#container',
   
   initialize: function(options) {
+    this.dataset = options.dataset;
     _.bindAll(this, 'items');
   },
 
@@ -53,6 +54,8 @@ var Application = Backbone.View.extend({
   items: function(search, doc) {
     var that = this;
 
+    search = search || this.dataset;
+    
     $('#main').html('<div class="loading-docs"><span>Loading items ...</span></div>');
 
     loadItems(search, function(err, session) {

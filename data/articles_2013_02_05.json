@@ -1,0 +1,458 @@
+{
+  "type": {
+    "_id": "/type/article",
+    "name": "Projects",
+    "properties": {
+      "name": {
+        "name": "Article Name",
+        "type": "string",
+        "unique": true
+      },
+      "author": {
+        "name": "Author",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "details": true
+        }
+      },
+      "published_date": {
+        "name": "Published Date",
+        "type": "date",
+        "unique": true
+      },
+      "website": {
+        "name": "Website",
+        "type": "string",
+        "unique": true
+      },
+      "locations": {
+        "name": "Locations",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "persons": {
+        "name": "Persons",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "image": {
+        "name": "Image",
+        "type": "string",
+        "unique": true
+      },
+      "abstract": {
+        "name": "Abstract",
+        "type": "string",
+        "unique": true
+      },
+      "section": {
+        "name": "Section",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "subjects": {
+        "name": "Subjects",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      }
+    }
+  },
+  "objects": [
+    {
+      "_id": "100000002042100",
+      "name": "Bones Under Parking Lot Belonged to Richard III",
+      "abstract": "In one of Britain’s most dramatic modern archaeological finds, tests identified the remains of the reviled English monarch, a discovery that could lead to a reassessment of his reign.",
+      "section": "World",
+      "organiszations": [
+        "UNIVERSITY OF LEICESTER"
+      ],
+      "subjects": [
+        "SKELETONS",
+        "ARCHAEOLOGY"
+      ],
+      "locations": [
+        "LEICESTER (ENGLAND)"
+      ],
+      "persons": [
+        "RICHARD III, KING OF ENGLAND"
+      ],
+      "author": "By JOHN F. BURNS",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/04Richard_cnd/04Richard_cnd-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/world/europe/richard-the-third-bones.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002043630",
+      "name": "Standoff in Alabama Ends in Boy’s Rescue and Kidnapper’s Death",
+      "abstract": "The man who held a five-year-old boy in a bunker for days was killed during a rescue operation by federal agents.",
+      "section": "U.S.",
+      "organiszations": [],
+      "subjects": [
+        "HOSTAGES",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "locations": [
+        "ALABAMA"
+      ],
+      "persons": [
+        "DYKES, JIMMY LEE"
+      ],
+      "author": "By ROBBIE BROWN and CAMPBELL ROBERTSON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/us/05hostage1_span/05hostage1_span-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/us/boy-is-safe-after-alabama-hostage-standoff.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002041800",
+      "name": "Friends of Fraud",
+      "abstract": "Republicans are fighting to make America safe for financial abuse.",
+      "section": "Opinion",
+      "organiszations": [
+        "CONSUMER FINANCIAL PROTECTION BUREAU",
+        "REPUBLICAN PARTY"
+      ],
+      "subjects": [
+        "CONSUMER PROTECTION",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "BANKING AND FINANCIAL INSTITUTIONS",
+        "DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT (2010)"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By PAUL KRUGMAN",
+      "image": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/opinion/krugman-friends-of-fraud.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002041140",
+      "name": "Untouchable in Iraq, Ex-Sniper Dies in a Shooting Back Home",
+      "abstract": "Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun range for a kind of therapy session, but the police said the man turned his gun on Mr. Kyle.",
+      "section": "U.S.",
+      "organiszations": [
+        "NAVY SEALS"
+      ],
+      "subjects": [
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "locations": [
+        "TEXAS"
+      ],
+      "persons": [
+        "KYLE, CHRIS (1974-2013)",
+        "ROUTH, EDDIE RAY"
+      ],
+      "author": "By MANNY FERNANDEZ and MICHAEL SCHWIRTZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/us/04author_2/04author_2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/us/chris-kyle-american-sniper-author-reported-killed.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002026240",
+      "name": "Vast Oil Reserve May Now Be Within Reach, and Battle Heats Up",
+      "abstract": "Monterey Shale deposits, which could turn California into the nation’s top oil-producing state, is stirring conflict between drillers and environmental interests.",
+      "section": "U.S.",
+      "organiszations": [
+        "HESS CORPORATION",
+        "HES",
+        "NYSE",
+        "VENOCO INC",
+        "VQ",
+        "NYSE",
+        "OCCIDENTAL PETROLEUM CORPORATION",
+        "OXY",
+        "NYSE"
+      ],
+      "subjects": [
+        "HYDRAULIC FRACTURING",
+        "ENVIRONMENT",
+        "OIL (PETROLEUM) AND GASOLINE"
+      ],
+      "locations": [
+        "MONTEREY (CALIF)",
+        "NORTH DAKOTA",
+        "CALIFORNIA"
+      ],
+      "persons": [],
+      "author": "By NORIMITSU ONISHI",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/us/SHALE-1/SHALE-1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/us/vast-oil-reserve-may-now-be-within-reach-and-battle-heats-up.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002041770",
+      "name": "Super Bowl Ads Speak to a Generation. But Which One?",
+      "abstract": "The ads CBS broadcast nationally represented a missed opportunity for marketers to show that they understood how modern consumers think and behave.",
+      "section": "Business Day",
+      "organiszations": [
+        "PROCTER & GAMBLE COMPANY",
+        "PG",
+        "NYSE",
+        "COCA-COLA COMPANY",
+        "KO",
+        "NYSE",
+        "E TRADE FINANCIAL CORPORATION",
+        "ETFC",
+        "NASDAQ",
+        "TOYOTA MOTOR CORPORATION",
+        "TM",
+        "NYSE",
+        "SKECHERS USA INC",
+        "SKX",
+        "NYSE",
+        "PEPSICO INC",
+        "PEP",
+        "NYSE",
+        "VOLKSWAGEN AG",
+        "VLKAY",
+        "OTHER OTC",
+        "CBS CORPORATION",
+        "CBS",
+        "NYSE",
+        "ANHEUSER-BUSCH INBEV NV",
+        "BUD",
+        "NYSE"
+      ],
+      "subjects": [
+        "TELEVISION",
+        "ADVERTISING AND MARKETING"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By STUART ELLIOTT",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/business/adco1/adco1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/business/media/super-bowl-commercials-relied-on-outdated-ad-tactics.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002042300",
+      "name": "Police Call Match-Fixing Widespread in Soccer",
+      "abstract": "A 19-month investigation by a European intelligence agency found that nearly 700 games globally may have been fixed, with profits from the wide-ranging scandal totaling about $11 million.",
+      "section": "Sports",
+      "organiszations": [
+        "EUROPOL"
+      ],
+      "subjects": [
+        "SOCCER",
+        "ORGANIZED CRIME"
+      ],
+      "locations": [
+        "EUROPE"
+      ],
+      "persons": [],
+      "author": "By SAM BORDEN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/sports/jpFIXING/jpFIXING-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/sports/soccer/investigation-finds-suspected-fixing-in-680-soccer-matches.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002042000",
+      "name": "Beyoncé Silences Doubters With Intensity at Halftime",
+      "abstract": "Beyoncé answered her critics during her halftime performance by singing live with fierceness and confidence. Late in her set, she was joined by her former sidekicks of Destiny’s Child.",
+      "section": "Sports",
+      "organiszations": [
+        "DESTINY'S CHILD"
+      ],
+      "subjects": [
+        "FOOTBALL",
+        "SUPER BOWL",
+        "MUSIC"
+      ],
+      "locations": [],
+      "persons": [
+        "KNOWLES, BEYONCE"
+      ],
+      "author": "By JON CARAMANICA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/SUB-halftime/SUB-halftime-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/beyonce-brings-intensity-to-halftime-show-and-silences-doubters.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002040620",
+      "name": "Drowned in a Stream of Prescriptions",
+      "abstract": "The suicide of Richard Fee highlights issues in the treatment of A.D.H.D., as youths fake symptoms to feed their addictions to potentially dangerous stimulants.",
+      "section": "U.S.",
+      "organiszations": [
+        "DOMINION PSYCHIATRIC ASSOCIATES (VIRGINIA BEACH, VA)"
+      ],
+      "subjects": [
+        "DRUGS (PHARMACEUTICALS)",
+        "SUICIDES AND SUICIDE ATTEMPTS"
+      ],
+      "locations": [],
+      "persons": [
+        "FEE, KATHY",
+        "FEE, RICK",
+        "FEE, RICHARD",
+        "ELLISON, WALDO M"
+      ],
+      "author": "By ALAN SCHWARZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/us/stimulant/stimulant-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/us/concerns-about-adhd-practices-and-amphetamine-addiction.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002042670",
+      "name": "Obama’s Shifts May Affect U.S. Legal Plan on Gay Marriage",
+      "abstract": "After advocating a state-by-state approach to the issue, President Obama seems now be thinking nationally, complicating the strategy in a pivotal case in California.",
+      "section": "U.S.",
+      "organiszations": [
+        "SUPREME COURT"
+      ],
+      "subjects": [
+        "SAME-SEX MARRIAGE, CIVIL UNIONS AND DOMESTIC PARTNERSHIPS",
+        "DEFENSE OF MARRIAGE ACT (1996)"
+      ],
+      "locations": [],
+      "persons": [
+        "VERRILLI, DONALD B JR"
+      ],
+      "author": "By ADAM LIPTAK",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/us/05bar-cnd/05bar-cnd-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/us/politics/solicitor-generals-predicament-on-gay-marriage.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002041920",
+      "name": "Before Game Is Decided, Superdome Goes Dark",
+      "abstract": "The lights on one half of the Superdome’s roof suddenly went out, making for one of the oddest, most embarrassing moments in Super Bowl history.",
+      "section": "Sports",
+      "organiszations": [
+        "MERCEDES BENZ SUPERDOME (NEW ORLEANS)",
+        "BALTIMORE RAVENS",
+        "SAN FRANCISCO 49ERS"
+      ],
+      "subjects": [
+        "POWER OUTAGES AND BLACKOUTS",
+        "FOOTBALL"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By KEN BELSON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/lights/lights-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/power-outage-in-superdome-delays-super-bowl.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002041400",
+      "name": "The Author Himself Was a Cat in the Hat",
+      "abstract": "A tour featuring hats from the collection of Theodor Geisel, also known as Dr. Seuss, will begin Monday at the New York Public Library’s Fifth Avenue building.",
+      "section": "Books",
+      "organiszations": [
+        "NEW YORK PUBLIC LIBRARY"
+      ],
+      "subjects": [
+        "HATS AND CAPS",
+        "BOOKS AND LITERATURE"
+      ],
+      "locations": [],
+      "persons": [
+        "GEISEL, THEODOR SEUSS"
+      ],
+      "author": "By LESLIE KAUFMAN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/arts/04SEUSS2/04SEUSS2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/books/dr-seuss-himself-was-a-cat-in-the-hat.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002042400",
+      "name": "In Words and Unmistakable Song, Koch’s Bond With City Is Celebrated ",
+      "abstract": "Politicians from across the political spectrum filled the sanctuary Monday morning at Edward I. Koch’s funeral at Temple Emanu-El in Manhattan.",
+      "section": "N.Y. / Region",
+      "organiszations": [
+        "TEMPLE EMANU-EL"
+      ],
+      "subjects": [],
+      "locations": [
+        "NEW YORK CITY"
+      ],
+      "persons": [
+        "KOCH, EDWARD I"
+      ],
+      "author": "By JAMES BARRON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/nyregion/KOCH1/KOCH1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/nyregion/celebrating-ed-koch-a-civic-savior-of-new-york.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002041860",
+      "name": "As Extremists Invaded, Timbuktu Hid Artifacts of a Golden Age",
+      "abstract": "Residents found ways to hide delicate artifacts from the Islamists who reigned over the city until last weekend, when fighters set fire to dozens of ancient manuscripts.",
+      "section": "World",
+      "organiszations": [],
+      "subjects": [
+        "MANUSCRIPTS",
+        "LIBRARIES AND LIBRARIANS",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "locations": [
+        "TIMBUKTU (MALI)"
+      ],
+      "persons": [],
+      "author": "By LYDIA POLGREEN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/africa/Timbuktu/Timbuktu-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/world/africa/saving-timbuktus-priceless-artifacts-from-militants-clutches.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002042320",
+      "name": "Bolshoi Director Accuses Rivals",
+      "abstract": "Sergei Filin, who was severely burned by an acid attack, said he believes he may have been targeted by a group of people who hoped to replace the theater’s leadership.",
+      "section": "Arts",
+      "organiszations": [
+        "BOLSHOI THEATER",
+        "BOLSHOI BALLET"
+      ],
+      "subjects": [],
+      "locations": [
+        "MOSCOW (RUSSIA)"
+      ],
+      "persons": [
+        "FILIN, SERGEI"
+      ],
+      "author": "By ELLEN BARRY",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/04bolshoi_cnd/04bolshoi_cnd-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/arts/dance/bolshoi-ballet-director-says-he-knows-who-attacked-him.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002041400",
+      "name": "Israeli Strike Into Syria Said to Damage Research Site",
+      "abstract": "The weapons research center has been the target of sanctions because of intelligence suggesting that it was the training site for engineers who worked on chemical and biological weaponry.",
+      "section": "World",
+      "organiszations": [
+        "NUCLEAR THREAT INITIATIVE"
+      ],
+      "subjects": [
+        "MIDDLE EAST AND NORTH AFRICA UNREST (2010- )",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "locations": [
+        "SYRIA",
+        "ISRAEL"
+      ],
+      "persons": [],
+      "author": "By DAVID E. SANGER, ERIC SCHMITT and JODI RUDOREN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/JP-SYRIA/JP-SYRIA-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/world/middleeast/syrian-weapons-center-said-to-be-damaged.html",
+      "published_date": "2013-02-04"
+    }
+  ]
+}

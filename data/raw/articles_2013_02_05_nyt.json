@@ -1,0 +1,2569 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+  "num_results": 973,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/world\/europe\/richard-the-third-bones.html",
+      "adx_keywords": "Leicester (England);Richard III, King of England;University of Leicester;Skeletons;Archaeology",
+      "column": "",
+      "section": "World",
+      "byline": "By JOHN F. BURNS",
+      "type": "Article",
+      "title": "Bones Under Parking Lot Belonged to Richard III",
+      "abstract": "In one of Britain\u2019s most dramatic modern archaeological finds, tests identified the remains of the reviled English monarch, a discovery that could lead to a reassessment of his reign.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042102",
+      "asset_id": 1.000000020421e+14,
+      "views": 468999,
+      "des_facet": [
+        "SKELETONS",
+        "ARCHAEOLOGY"
+      ],
+      "org_facet": [
+        "UNIVERSITY OF LEICESTER"
+      ],
+      "per_facet": [
+        "RICHARD III, KING OF ENGLAND"
+      ],
+      "geo_facet": [
+        "LEICESTER (ENGLAND)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The skeleton found last fall near the buried ruins of the Greyfriars Priory in Leicester was confirmed on Monday by a team of experts to be that of King Richard III.",
+          "copyright": "Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ibsen is one of two descendants of Richard III’s sister, Anne of York, whose DNA was used to confirm the identity of the skeleton found beneath a parking lot in Leicester.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Skeletal remains found in an English parking lot, including a tortuously curved spine, were confirmed as those of Richard III.",
+          "copyright": "University of Leicester",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-articleInline.jpg",
+              "format": "Normal",
+              "height": 449,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The skeleton found last fall near the buried ruins of the Greyfriars Priory in Leicester was confirmed on Monday by a team of experts to be that of King Richard III.",
+          "copyright": "Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-articleInline.jpg",
+              "format": "Normal",
+              "height": 101,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/us\/boy-is-safe-after-alabama-hostage-standoff.html",
+      "adx_keywords": "Hostages;Alabama;Murders and Attempted Murders;Dykes, Jimmy Lee",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ROBBIE BROWN and CAMPBELL ROBERTSON",
+      "type": "Article",
+      "title": "Standoff in Alabama Ends in Boy\u2019s Rescue and Kidnapper\u2019s Death",
+      "abstract": "The man who held a five-year-old boy in a bunker for days was killed during a rescue operation by federal agents.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002043633",
+      "asset_id": 1.0000000204363e+14,
+      "views": 265160,
+      "des_facet": [
+        "HOSTAGES",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DYKES, JIMMY LEE"
+      ],
+      "geo_facet": [
+        "ALABAMA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement personnel stationed themselves on the property of Jimmy Lee Dykes on Monday in Midland City, Ala.",
+          "copyright": "Joe Songer\/AL.com, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-articleInline.jpg",
+              "format": "Normal",
+              "height": 97,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Lee Dykes",
+          "copyright": "Alabama Department of Public Safety, via Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-articleInline.jpg",
+              "format": "Normal",
+              "height": 229,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement personnel stationed themselves on the property of Jimmy Lee Dykes on Monday in Midland City, Ala.",
+          "copyright": "Joe Songer\/AL.com, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-articleInline.jpg",
+              "format": "Normal",
+              "height": 97,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/opinion\/krugman-friends-of-fraud.html",
+      "adx_keywords": "Consumer Protection;Consumer Financial Protection Bureau;Republican Party;United States Politics and Government;Banking and Financial Institutions;Dodd-Frank Wall Street Reform and Consumer Protection Act (2010);Subprime Mortgage Crisis",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By PAUL KRUGMAN",
+      "type": "Article",
+      "title": "Friends of Fraud",
+      "abstract": "Republicans are fighting to make America safe for financial abuse.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041796",
+      "asset_id": 1.000000020418e+14,
+      "views": 205967,
+      "des_facet": [
+        "CONSUMER PROTECTION",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "BANKING AND FINANCIAL INSTITUTIONS",
+        "DODD-FRANK WALL STREET REFORM AND CONSUMER PROTECTION ACT (2010)"
+      ],
+      "org_facet": [
+        "CONSUMER FINANCIAL PROTECTION BUREAU",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Krugman",
+          "copyright": "Fred R. Conrad\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Paul Krugman",
+          "copyright": "Fred R. Conrad\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Krugman_New\/Krugman_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/us\/chris-kyle-american-sniper-author-reported-killed.html",
+      "adx_keywords": "Kyle, Chris (1974-2013);Routh, Eddie Ray;Murders and Attempted Murders;American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History (Book);Navy Seals;Texas",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MANNY FERNANDEZ and MICHAEL SCHWIRTZ",
+      "type": "Article",
+      "title": "Untouchable in Iraq, Ex-Sniper Dies in a Shooting Back Home",
+      "abstract": "Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun range for a kind of therapy session, but the police said the man turned his gun on Mr. Kyle.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041138",
+      "asset_id": 1.0000000204114e+14,
+      "views": 124702,
+      "des_facet": [
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "org_facet": [
+        "NAVY SEALS"
+      ],
+      "per_facet": [
+        "KYLE, CHRIS (1974-2013)",
+        "ROUTH, EDDIE RAY"
+      ],
+      "geo_facet": [
+        "TEXAS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Kyle in 2012.",
+          "copyright": "Paul Moseley\/The Fort Worth Star-Telegram, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Kyle in 2012.",
+          "copyright": "Paul Moseley\/The Fort Worth Star-Telegram, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/us\/vast-oil-reserve-may-now-be-within-reach-and-battle-heats-up.html",
+      "adx_keywords": "Hydraulic Fracturing;Monterey (Calif);Environment;Regulation and Deregulation of Industry;Reserves (Natural Resources);Oil (Petroleum) and Gasoline;North Dakota;California",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By NORIMITSU ONISHI",
+      "type": "Article",
+      "title": "Vast Oil Reserve May Now Be Within Reach, and Battle Heats Up",
+      "abstract": "Monterey Shale deposits, which could turn California into the nation\u2019s top oil-producing state, is stirring conflict between drillers and environmental interests.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002026240",
+      "asset_id": 1.0000000202624e+14,
+      "views": 104452,
+      "des_facet": [
+        "HYDRAULIC FRACTURING",
+        "ENVIRONMENT",
+        "OIL (PETROLEUM) AND GASOLINE"
+      ],
+      "org_facet": [
+        "HESS CORPORATION",
+        "HES",
+        "NYSE",
+        "VENOCO INC",
+        "VQ",
+        "NYSE",
+        "OCCIDENTAL PETROLEUM CORPORATION",
+        "OXY",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "MONTEREY (CALIF)",
+        "NORTH DAKOTA",
+        "CALIFORNIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Midway-Sunset oil field in California, the prize lies fairly close to the surface, so the wells do not have to be very deep. The oil in the Monterey Shale is much less accessible.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-jumbo.jpg",
+              "format": "jumbo",
+              "height": 670,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 124,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Oil dripped from a stick held by Jeff Prude, a federal Bureau of Land Management employee, near the oil fields last month.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-2\/SHALE-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-2\/SHALE-2-jumbo.jpg",
+              "format": "jumbo",
+              "height": 685,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-2\/SHALE-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-2\/SHALE-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-2\/SHALE-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Midway-Sunset oil field, which keeps producing crude more than a century after the Southern California oil boom.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-1\/JP-SHALE-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-1\/JP-SHALE-1-jumbo.jpg",
+              "format": "jumbo",
+              "height": 676,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-1\/JP-SHALE-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 125,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-1\/JP-SHALE-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-1\/JP-SHALE-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A marker where a 1909 gusher made the field famous.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-2\/JP-SHALE-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-2\/JP-SHALE-2-jumbo.jpg",
+              "format": "jumbo",
+              "height": 768,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-2\/JP-SHALE-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 143,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-2\/JP-SHALE-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/JP-SHALE-2\/JP-SHALE-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At the Midway-Sunset oil field in California, the prize lies fairly close to the surface, so the wells do not have to be very deep. The oil in the Monterey Shale is much less accessible.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 124,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-jumbo.jpg",
+              "format": "jumbo",
+              "height": 670,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/SHALE-1\/SHALE-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/dealbook.nytimes.com\/2013\/02\/04\/u-s-and-states-prepare-to-sue-s-p-over-mortgage-ratings\/",
+      "adx_keywords": "",
+      "column": "DealBook",
+      "section": "Business Day",
+      "byline": "By ANDREW ROSS SORKIN and MARY WILLIAMS WALSH",
+      "type": "Blog",
+      "title": "U.S. Accuses S.&P. of Fraud in Suit on Loan Bundles",
+      "abstract": "The Justice Department has filed civil fraud charges in federal court in Los Angeles against Standard & Poor's over its ratings of mortgage-related securities.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": 243,
+      "asset_id": 243,
+      "views": 100776,
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": ""
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/business\/media\/super-bowl-commercials-relied-on-outdated-ad-tactics.html",
+      "adx_keywords": "Super Bowl;Television;Advertising and Marketing",
+      "column": "Advertising",
+      "section": "Business Day",
+      "byline": "By STUART ELLIOTT",
+      "type": "Article",
+      "title": "Super Bowl Ads Speak to a Generation. But Which One?",
+      "abstract": "The ads CBS broadcast nationally represented a missed opportunity for marketers to show that they understood how modern consumers think and behave.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041773",
+      "asset_id": 1.0000000204177e+14,
+      "views": 99757,
+      "des_facet": [
+        "TELEVISION",
+        "ADVERTISING AND MARKETING"
+      ],
+      "org_facet": [
+        "PROCTER & GAMBLE COMPANY",
+        "PG",
+        "NYSE",
+        "COCA-COLA COMPANY",
+        "KO",
+        "NYSE",
+        "E TRADE FINANCIAL CORPORATION",
+        "ETFC",
+        "NASDAQ",
+        "TOYOTA MOTOR CORPORATION",
+        "TM",
+        "NYSE",
+        "SKECHERS USA INC",
+        "SKX",
+        "NYSE",
+        "PEPSICO INC",
+        "PEP",
+        "NYSE",
+        "VOLKSWAGEN AG",
+        "VLKAY",
+        "OTHER OTC",
+        "CBS CORPORATION",
+        "CBS",
+        "NYSE",
+        "ANHEUSER-BUSCH INBEV NV",
+        "BUD",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tide told a tale about a “miracle” stain on a football jersey.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Volkswagen’s commercial centered on a dialect joke.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco4\/adco4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco4\/adco4-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco4\/adco4-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco4\/adco4-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Budweiser told a touching story about a Clydesdale foal and its trainer.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco6\/adco6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco6\/adco6-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco6\/adco6-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco6\/adco6-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Oreo’s ad, a debate in a library over the cookies got out of hand.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco3\/adco3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco3\/adco3-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco3\/adco3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco3\/adco3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tide told a tale about a “miracle” stain on a football jersey.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-articleInline.jpg",
+              "format": "Normal",
+              "height": 107,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/business\/adco1\/adco1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/sports\/soccer\/investigation-finds-suspected-fixing-in-680-soccer-matches.html",
+      "adx_keywords": "Soccer;Frauds and Swindling;Organized Crime;Europe;Europol",
+      "column": "",
+      "section": "Sports",
+      "byline": "By SAM BORDEN",
+      "type": "Article",
+      "title": "Police Call Match-Fixing Widespread in Soccer",
+      "abstract": "A 19-month investigation by a European intelligence agency found that nearly 700 games globally may have been fixed, with profits from the wide-ranging scandal totaling about $11 million.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042301",
+      "asset_id": 1.000000020423e+14,
+      "views": 93668,
+      "des_facet": [
+        "SOCCER",
+        "ORGANIZED CRIME"
+      ],
+      "org_facet": [
+        "EUROPOL"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "EUROPE"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Europol’s chief, Rob Wainwright, second from left, said hundreds of games might have been fixed.",
+          "copyright": "Robin Van Lonkhuijsen\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-articleInline.jpg",
+              "format": "Normal",
+              "height": 108,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Europol’s chief, Rob Wainwright, second from left, said hundreds of games might have been fixed.",
+          "copyright": "Robin Van Lonkhuijsen\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-articleInline.jpg",
+              "format": "Normal",
+              "height": 108,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/sports\/football\/beyonce-brings-intensity-to-halftime-show-and-silences-doubters.html",
+      "adx_keywords": "Football;Super Bowl;Knowles, Beyonce;Destiny's Child;Music",
+      "column": "",
+      "section": "Sports",
+      "byline": "By JON CARAMANICA",
+      "type": "Article",
+      "title": "Beyonc\u00e9 Silences Doubters With Intensity at Halftime",
+      "abstract": "Beyonc\u00e9 answered her critics during her halftime performance by singing live with fierceness and confidence. Late in her set, she was joined by her former sidekicks of Destiny\u2019s Child.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002042002",
+      "asset_id": 1.00000002042e+14,
+      "views": 90246,
+      "des_facet": [
+        "FOOTBALL",
+        "SUPER BOWL",
+        "MUSIC"
+      ],
+      "org_facet": [
+        "DESTINY'S CHILD"
+      ],
+      "per_facet": [
+        "KNOWLES, BEYONCE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beyoncé opened her halftime performance with a serious tone, singing her hit “Love on Top.” Her voice was fierce and powerful for “Crazy in Love.”",
+          "copyright": "Jed Jacobsohn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-jumbo.jpg",
+              "format": "jumbo",
+              "height": 766,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-articleInline.jpg",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beyoncé opened her halftime performance with a serious tone, singing her hit “Love on Top.” Her voice was fierce and powerful for “Crazy in Love.”",
+          "copyright": "Jed Jacobsohn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-articleInline.jpg",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-jumbo.jpg",
+              "format": "jumbo",
+              "height": 766,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/03\/us\/concerns-about-adhd-practices-and-amphetamine-addiction.html",
+      "adx_keywords": "Drugs (Pharmaceuticals);Attention Deficit Hyperactivity Disorder;Adderall (Drug);Mental Health and Disorders;Psychiatry and Psychiatrists;Fee, Kathy;Fee, Rick;Fee, Richard;Suicides and Suicide Attempts;Ellison, Waldo M;Dominion Psychiatric Associates (Virginia Beach, Va)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ALAN SCHWARZ",
+      "type": "Article",
+      "title": "Drowned in a Stream of Prescriptions",
+      "abstract": "The suicide of Richard Fee highlights issues in the treatment of A.D.H.D., as youths fake symptoms to feed their addictions to potentially dangerous stimulants.",
+      "published_date": "2013-02-03",
+      "source": "The New York Times",
+      "id": "100000002040618",
+      "asset_id": 1.0000000204062e+14,
+      "views": 86387,
+      "des_facet": [
+        "DRUGS (PHARMACEUTICALS)",
+        "SUICIDES AND SUICIDE ATTEMPTS"
+      ],
+      "org_facet": [
+        "DOMINION PSYCHIATRIC ASSOCIATES (VIRGINIA BEACH, VA)"
+      ],
+      "per_facet": [
+        "FEE, KATHY",
+        "FEE, RICK",
+        "FEE, RICHARD",
+        "ELLISON, WALDO M"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Before his addiction, Richard Fee was a popular college class president and aspiring medical student. \"You keep giving Adderall to my son, you're going to kill him,\" said Rick Fee, Richard's father, to one of his son's doctors.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-articleInline.jpg",
+              "format": "Normal",
+              "height": 143,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MENTAL HEALTH CLINIC<\/strong> Dominion Psychiatric Associates in Virginia Beach, where Richard Fee was treated by Dr. Waldo M. Ellison. After observing Richard and hearing his complaints about concentration, Dr. Ellison diagnosed attention deficit hyperactivity disorder and prescribed the stimulant Adderall.",
+          "copyright": "Matt Eich for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant1\/jp-stimulant1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant1\/jp-stimulant1-articleInline.jpg",
+              "format": "Normal",
+              "height": 116,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant1\/jp-stimulant1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant1\/jp-stimulant1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03stimulant-graphic\/03stimulant-graphic-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03stimulant-graphic\/03stimulant-graphic-thumbLarge.png",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03stimulant-graphic\/03stimulant-graphic-articleInline.png",
+              "format": "Normal",
+              "height": 445,
+              "width": 190
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "COLLEGE YEARS<\/strong> Richard Fee was on the baseball team at Greensboro College.",
+          "copyright": "Matthew Eich for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-2\/jp-stimulant-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-2\/jp-stimulant-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 131,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-2\/jp-stimulant-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-2\/jp-stimulant-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "PARENTS<\/strong> Kathy and Rick Fee with a photograph of Richard, who committed suicide in November 2011. They say they begged his doctors not to prescribe Adderall, an amphetamine to which he had become addicted. One of Richard’s doctors later said that his was a textbook case of the ways A.D.H.D. practices can fail patients.",
+          "copyright": "Matthew Eich for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-3\/jp-stimulant-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-3\/jp-stimulant-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-3\/jp-stimulant-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-3\/jp-stimulant-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "QUESTIONNAIRE<\/strong> Richard Fee first received a diagnosis of A.D.H.D. in 2009, during a visit to a psychiatric clinic where he filled out a survey rating symptoms on a 0-to-3 scale. Having used stimulants in college to study, Richard appeared to have faked his responses in order to get a prescription.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03STIMULANT_PAPER\/03STIMULANT_PAPER-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03STIMULANT_PAPER\/03STIMULANT_PAPER-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03STIMULANT_PAPER\/03STIMULANT_PAPER-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/03STIMULANT_PAPER\/03STIMULANT_PAPER-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "PSYCHIATRIST<\/strong> Dr. Charles Parker was one of the doctors who saw Richard Fee.",
+          "copyright": "Matthew Eich for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-5\/jp-stimulant-5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-5\/jp-stimulant-5-articleInline.jpg",
+              "format": "Normal",
+              "height": 235,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-5\/jp-stimulant-5-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-5\/jp-stimulant-5-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "SNAPSHOT<\/strong> Rick and Richard Fee at Yankee Stadium in November 2009. As Richard’s addiction worsened, he became more violent and eventually was asked to leave his parents’ home.",
+          "copyright": "Matthew Eich for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-6\/jp-stimulant-6-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-6\/jp-stimulant-6-articleInline.jpg",
+              "format": "Normal",
+              "height": 135,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-6\/jp-stimulant-6-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/jp-stimulant-6\/jp-stimulant-6-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Before his addiction, Richard Fee was a popular college class president and aspiring medical student. \"You keep giving Adderall to my son, you're going to kill him,\" said Rick Fee, Richard's father, to one of his son's doctors.",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-articleInline.jpg",
+              "format": "Normal",
+              "height": 143,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/us\/stimulant\/stimulant-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/us\/politics\/solicitor-generals-predicament-on-gay-marriage.html",
+      "adx_keywords": "Same-Sex Marriage, Civil Unions and Domestic Partnerships;Supreme Court;Defense of Marriage Act (1996);Verrilli, Donald B Jr",
+      "column": "Sidebar",
+      "section": "U.S.",
+      "byline": "By ADAM LIPTAK",
+      "type": "Article",
+      "title": "Obama\u2019s Shifts May Affect U.S. Legal Plan on Gay Marriage",
+      "abstract": "After advocating a state-by-state approach to the issue, President Obama seems now be thinking nationally, complicating the strategy in a pivotal case in California.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042667",
+      "asset_id": 1.0000000204267e+14,
+      "views": 80327,
+      "des_facet": [
+        "SAME-SEX MARRIAGE, CIVIL UNIONS AND DOMESTIC PARTNERSHIPS",
+        "DEFENSE OF MARRIAGE ACT (1996)"
+      ],
+      "org_facet": [
+        "SUPREME COURT"
+      ],
+      "per_facet": [
+        "VERRILLI, DONALD B JR"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solicitor General Donald B. Verrilli Jr.  spoke outside the Supreme Court building in 2008. He will argue before the court in a pair of momentous same-sex marriage cases in March.",
+          "copyright": "Evan Vucci\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Solicitor General Donald B. Verrilli Jr.  spoke outside the Supreme Court building in 2008. He will argue before the court in a pair of momentous same-sex marriage cases in March.",
+          "copyright": "Evan Vucci\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05bar-cnd\/05bar-cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/sports\/football\/power-outage-in-superdome-delays-super-bowl.html",
+      "adx_keywords": "Mercedes Benz Superdome (New Orleans);Super Bowl;Baltimore Ravens;San Francisco 49ers;Power Outages and Blackouts;Football",
+      "column": "",
+      "section": "Sports",
+      "byline": "By KEN BELSON",
+      "type": "Article",
+      "title": "Before Game Is Decided, Superdome Goes Dark",
+      "abstract": "The lights on one half of the Superdome\u2019s roof suddenly went out, making for one of the oddest, most embarrassing moments in Super Bowl history.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041920",
+      "asset_id": 1.0000000204192e+14,
+      "views": 78759,
+      "des_facet": [
+        "POWER OUTAGES AND BLACKOUTS",
+        "FOOTBALL"
+      ],
+      "org_facet": [
+        "MERCEDES BENZ SUPERDOME (NEW ORLEANS)",
+        "BALTIMORE RAVENS",
+        "SAN FRANCISCO 49ERS"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A security guard Sunday during the power failure at the Super Dome in New Orleans, with the emergency lights on.",
+          "copyright": "Doug Mills\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-jumbo.jpg",
+              "format": "jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco 49ers quarterback Colin Kaepernick on the field during the power failure. He later led the Niners back from a 28-6 deficit.",
+          "copyright": "Jed Jacobsohn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/jp-light\/jp-light-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/jp-light\/jp-light-jumbo.jpg",
+              "format": "jumbo",
+              "height": 568,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/jp-light\/jp-light-articleInline.jpg",
+              "format": "Normal",
+              "height": 105,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/jp-light\/jp-light-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/jp-light\/jp-light-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A security guard Sunday during the power failure at the Super Dome in New Orleans, with the emergency lights on.",
+          "copyright": "Doug Mills\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-jumbo.jpg",
+              "format": "jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/lights\/lights-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/books\/dr-seuss-himself-was-a-cat-in-the-hat.html",
+      "adx_keywords": "Geisel, Theodor Seuss;New York Public Library;Hats and Caps;Books and Literature",
+      "column": "",
+      "section": "Books",
+      "byline": "By LESLIE KAUFMAN",
+      "type": "Article",
+      "title": "The Author Himself Was a Cat in the Hat",
+      "abstract": "A tour featuring hats from the collection of Theodor Geisel, also known as Dr. Seuss, will begin Monday at the New York Public Library\u2019s Fifth Avenue building.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041397",
+      "asset_id": 1.000000020414e+14,
+      "views": 78104,
+      "des_facet": [
+        "HATS AND CAPS",
+        "BOOKS AND LITERATURE"
+      ],
+      "org_facet": [
+        "NEW YORK PUBLIC LIBRARY"
+      ],
+      "per_facet": [
+        "GEISEL, THEODOR SEUSS"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This hat from Theodor Geisel's collection resembles the one worn by the Cat in the Hat.",
+          "copyright": "Dr. Seuss Enterprises L.P.",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-articleInline.jpg",
+              "format": "Normal",
+              "height": 322,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Cat in the Hat.",
+          "copyright": "Dr. Seuss Enterprises L.P.",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS1\/04SEUSS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS1\/04SEUSS1-articleInline.jpg",
+              "format": "Normal",
+              "height": 323,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS1\/04SEUSS1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS1\/04SEUSS1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A hat familiar to readers of the Dr. Seuss book \"The 500 Hats of Bartholomew Cubbins.\"",
+          "copyright": "Dr. Seuss Enterprises L.P.",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS3\/04SEUSS3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS3\/04SEUSS3-articleInline.jpg",
+              "format": "Normal",
+              "height": 151,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS3\/04SEUSS3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS3\/04SEUSS3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Geisel in a San Diego State band hat, with his wife, Audrey.",
+          "copyright": "Dr. Seuss Enterprises L.P.",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/SUBJPSEUSS\/SUBJPSEUSS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/SUBJPSEUSS\/SUBJPSEUSS-articleInline.jpg",
+              "format": "Normal",
+              "height": 208,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/SUBJPSEUSS\/SUBJPSEUSS-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/SUBJPSEUSS\/SUBJPSEUSS-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This hat from Theodor Geisel's collection resembles the one worn by the Cat in the Hat.",
+          "copyright": "Dr. Seuss Enterprises L.P.",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-articleInline.jpg",
+              "format": "Normal",
+              "height": 322,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/arts\/04SEUSS2\/04SEUSS2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/nyregion\/celebrating-ed-koch-a-civic-savior-of-new-york.html",
+      "adx_keywords": "Koch, Edward I;Temple Emanu-el;New York City",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By JAMES BARRON",
+      "type": "Article",
+      "title": "In Words and Unmistakable Song, Koch’s Bond With City Is Celebrated ",
+      "abstract": "Politicians from across the political spectrum filled the sanctuary Monday morning at Edward I. Koch\u2019s funeral at Temple Emanu-El in Manhattan.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042396",
+      "asset_id": 1.000000020424e+14,
+      "views": 74985,
+      "des_facet": "",
+      "org_facet": [
+        "TEMPLE EMANU-EL"
+      ],
+      "per_facet": [
+        "KOCH, EDWARD I"
+      ],
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Tough and loud, brash and irreverent, full of humor and chutzpah — he was our city’s quintessential mayor.”  — Mayor Michael R. Bloomberg, eulogizing former Mayor Edward I. Koch.",
+          "copyright": "Spencer Platt\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH1\/KOCH1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH1\/KOCH1-articleInline.jpg",
+              "format": "Normal",
+              "height": 125,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH1\/KOCH1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH1\/KOCH1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An honor guard brought the coffin of former Mayor Edward I. Koch to Temple Emanu-El on Fifth Avenue.",
+          "copyright": "Richard Perry\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/05koch1_cnd\/05koch1_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/05koch1_cnd\/05koch1_cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 130,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/05koch1_cnd\/05koch1_cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/05koch1_cnd\/05koch1_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayors Michael R. Bloomberg, Rudolph W. Giuliani and David N. Dinkins at Mayor Edward I. Koch’s funeral Monday.",
+          "copyright": "Lucas Jackson\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH-REFER\/KOCH-REFER-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH-REFER\/KOCH-REFER-articleInline.jpg",
+              "format": "Normal",
+              "height": 118,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH-REFER\/KOCH-REFER-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/nyregion\/KOCH-REFER\/KOCH-REFER-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/world\/africa\/saving-timbuktus-priceless-artifacts-from-militants-clutches.html",
+      "adx_keywords": "Manuscripts;Timbuktu (Mali);Libraries and Librarians;Defense and Military Forces;Tombs and Tombstones;Tuareg (Ethnic Group)",
+      "column": "",
+      "section": "World",
+      "byline": "By LYDIA POLGREEN",
+      "type": "Article",
+      "title": "As Extremists Invaded, Timbuktu Hid Artifacts of a Golden Age",
+      "abstract": "Residents found ways to hide delicate artifacts from the Islamists who reigned over the city until last weekend, when fighters set fire to dozens of ancient manuscripts.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041855",
+      "asset_id": 1.0000000204186e+14,
+      "views": 71604,
+      "des_facet": [
+        "MANUSCRIPTS",
+        "LIBRARIES AND LIBRARIANS",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "TIMBUKTU (MALI)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abdoulaye Cissé of the Ahmed Baba Institute with a manuscript that was hidden from extremists, who set fire to others.",
+          "copyright": "Tyler Hicks\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-jumbo.jpg",
+              "format": "jumbo",
+              "height": 634,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-articleInline.jpg",
+              "format": "Normal",
+              "height": 118,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ancient manuscripts that were saved from being burned at the Ahmed Baba Institute, the city’s biggest and most important library.",
+          "copyright": "Tyler Hicks\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-3\/JP-TIMBUKTU-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-3\/JP-TIMBUKTU-3-jumbo.jpg",
+              "format": "jumbo",
+              "height": 603,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-3\/JP-TIMBUKTU-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 112,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-3\/JP-TIMBUKTU-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-3\/JP-TIMBUKTU-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A man watched television, which was forbidden by Islamic militants while they held sway in the city until the arrival of French and Malian troops",
+          "copyright": "Tyler Hicks\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-1\/JP-TIMBUKTU-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-1\/JP-TIMBUKTU-1-jumbo.jpg",
+              "format": "jumbo",
+              "height": 629,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-1\/JP-TIMBUKTU-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 117,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-1\/JP-TIMBUKTU-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-1\/JP-TIMBUKTU-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A tomb destroyed by the extremists.",
+          "copyright": "Tyler Hicks\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-2\/JP-TIMBUKTU-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-2\/JP-TIMBUKTU-2-jumbo.jpg",
+              "format": "jumbo",
+              "height": 596,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-2\/JP-TIMBUKTU-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 111,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-2\/JP-TIMBUKTU-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-TIMBUKTU-2\/JP-TIMBUKTU-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Abdoulaye Cissé of the Ahmed Baba Institute with a manuscript that was hidden from extremists, who set fire to others.",
+          "copyright": "Tyler Hicks\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-articleInline.jpg",
+              "format": "Normal",
+              "height": 118,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-jumbo.jpg",
+              "format": "jumbo",
+              "height": 634,
+              "width": 1024
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/africa\/Timbuktu\/Timbuktu-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/mediadecoder.blogs.nytimes.com\/2013\/02\/04\/blackout-is-a-boon-for-super-bowl-ratings\/",
+      "adx_keywords": "CBS Corporation; Football; Moonves, Leslie; New Orleans (La); Nielsen Media Research; Power Outages and Blackouts; Ratings (Audience Measurement); Super Bowl; Television",
+      "column": "Media Decoder",
+      "section": "Business",
+      "byline": "By BILL CARTER",
+      "type": "Blog",
+      "title": "Blackout Is a Boon for Super Bowl Ratings",
+      "abstract": "The interruption was not only a diversion, but also changed the momentum in the game, helping to retain an audience that otherwise might have tuned out.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": 4,
+      "asset_id": 4,
+      "views": 67551,
+      "des_facet": [
+        "FOOTBALL",
+        "POWER OUTAGES AND BLACKOUTS",
+        "RATINGS (AUDIENCE MEASUREMENT)",
+        "SUPER BOWL",
+        "TELEVISION"
+      ],
+      "org_facet": [
+        "CBS CORPORATION",
+        "NIELSEN MEDIA RESEARCH"
+      ],
+      "per_facet": [
+        "MOONVES, LESLIE"
+      ],
+      "geo_facet": [
+        "NEW ORLEANS (LA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A field judge on the Superdome playing field after the lights went out in the second half of the Super Bowl.",
+          "copyright": "Matt Slocum\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/business\/Ratings\/Ratings-blog480-v2.jpg",
+              "format": "Large",
+              "height": 306,
+              "width": 480
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/arts\/dance\/bolshoi-ballet-director-says-he-knows-who-attacked-him.html",
+      "adx_keywords": "Filin, Sergei;Bolshoi Theater;Bolshoi Ballet;Moscow (Russia)",
+      "column": "",
+      "section": "Arts",
+      "byline": "By ELLEN BARRY",
+      "type": "Article",
+      "title": "Bolshoi Director Accuses Rivals",
+      "abstract": "Sergei Filin, who was severely burned by an acid attack, said he believes he may have been targeted by a group of people who hoped to replace the theater\u2019s leadership.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042319",
+      "asset_id": 1.0000000204232e+14,
+      "views": 60465,
+      "des_facet": "",
+      "org_facet": [
+        "BOLSHOI THEATER",
+        "BOLSHOI BALLET"
+      ],
+      "per_facet": [
+        "FILIN, SERGEI"
+      ],
+      "geo_facet": [
+        "MOSCOW (RUSSIA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artistic director of the Bolshoi ballet, Sergei Filin, left a hospital in Moscow on Monday.",
+          "copyright": "Misha Japaridze\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The artistic director of the Bolshoi ballet, Sergei Filin, left a hospital in Moscow on Monday.",
+          "copyright": "Misha Japaridze\/Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04bolshoi_cnd\/04bolshoi_cnd-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/world\/middleeast\/syrian-weapons-center-said-to-be-damaged.html",
+      "adx_keywords": "Syria;Israel;Middle East and North Africa Unrest (2010- );Defense and Military Forces;Nuclear Threat Initiative;Biological and Chemical Warfare",
+      "column": "",
+      "section": "World",
+      "byline": "By DAVID E. SANGER, ERIC SCHMITT and JODI RUDOREN",
+      "type": "Article",
+      "title": "Israeli Strike Into Syria Said to Damage Research Site",
+      "abstract": "The weapons research center has been the target of sanctions because of intelligence suggesting that it was the training site for engineers who worked on chemical and biological weaponry.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041395",
+      "asset_id": 1.000000020414e+14,
+      "views": 57911,
+      "des_facet": [
+        "MIDDLE EAST AND NORTH AFRICA UNREST (2010- )",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "org_facet": [
+        "NUCLEAR THREAT INITIATIVE"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "SYRIA",
+        "ISRAEL"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rebel fighters received instructions during heavy fighting on Sunday in Damascus. Rebels’ cellphone videos showed damage caused by an Israeli raid Wednesday.",
+          "copyright": "Goran Tomasevic\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Free Syrian Army fighter was wounded by a sniper in Damascus on Sunday. An Israeli airstrike last week showed cracks in Syria’s system of defense.",
+          "copyright": "Goran Tomasevic\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/SYRIA\/SYRIA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/SYRIA\/SYRIA-articleInline.jpg",
+              "format": "Normal",
+              "height": 134,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/SYRIA\/SYRIA-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/SYRIA\/SYRIA-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rebel fighters received instructions during heavy fighting on Sunday in Damascus. Rebels’ cellphone videos showed damage caused by an Israeli raid Wednesday.",
+          "copyright": "Goran Tomasevic\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 106,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/JP-SYRIA\/JP-SYRIA-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/opinionator.blogs.nytimes.com\/2013\/02\/02\/the-boys-at-the-back\/",
+      "adx_keywords": "Aviation High School (Queens, NY); Education (K-12); Men and Boys; Tests and Examinations",
+      "column": "The Great Divide",
+      "section": "Opinion",
+      "byline": "By CHRISTINA HOFF SOMMERS",
+      "type": "Blog",
+      "title": "The Boys at the Back",
+      "abstract": "Boys are being left behind in educational advancement. We need to address the reasons.",
+      "published_date": "2013-02-02",
+      "source": "The New York Times",
+      "id": 289,
+      "asset_id": 289,
+      "views": 57148,
+      "des_facet": [
+        "EDUCATION (K-12)",
+        "MEN AND BOYS",
+        "TESTS AND EXAMINATIONS"
+      ],
+      "org_facet": [
+        "AVIATION HIGH SCHOOL (QUEENS, NY)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Javens",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/sunday-review\/03BOYS\/03BOYS-tmagArticle.jpg",
+              "format": "Large",
+              "height": 508,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Javens",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/sunday-review\/03BOYSJPsub\/03BOYSJPsub-tmagArticle.jpg",
+              "format": "Large",
+              "height": 318,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/blogs_v3\/opinionator\/pogs\/greatdivide75.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

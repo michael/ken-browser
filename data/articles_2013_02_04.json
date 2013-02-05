@@ -1,0 +1,429 @@
+{
+  "type": {
+    "_id": "/type/article",
+    "name": "Projects",
+    "properties": {
+      "name": {
+        "name": "Article Name",
+        "type": "string",
+        "unique": true
+      },
+      "author": {
+        "name": "Author",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "details": true
+        }
+      },
+      "published_date": {
+        "name": "Published Date",
+        "type": "date",
+        "unique": true
+      },
+      "website": {
+        "name": "Website",
+        "type": "string",
+        "unique": true
+      },
+      "locations": {
+        "name": "Locations",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "persons": {
+        "name": "Persons",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "image": {
+        "name": "Image",
+        "type": "string",
+        "unique": true
+      },
+      "abstract": {
+        "name": "Abstract",
+        "type": "string",
+        "unique": true
+      },
+      "section": {
+        "name": "Section",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "subjects": {
+        "name": "Subjects",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      }
+    }
+  },
+  "objects": [
+    {
+      "_id": "100000002041140",
+      "name": "Untouchable in Iraq, Ex-Sniper Dies in a Shooting Back Home",
+      "abstract": "Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun range for a kind of therapy session, but the police said the man turned his gun on Mr. Kyle.",
+      "section": "U.S.",
+      "organiszations": [
+        "NAVY SEALS"
+      ],
+      "subjects": [
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "locations": [
+        "TEXAS"
+      ],
+      "persons": [
+        "KYLE, CHRIS (1974-2013)",
+        "ROUTH, EDDIE RAY"
+      ],
+      "author": "By MANNY FERNANDEZ and MICHAEL SCHWIRTZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/us/04author_2/04author_2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/us/chris-kyle-american-sniper-author-reported-killed.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002040620",
+      "name": "Drowned in a Stream of Prescriptions",
+      "abstract": "The suicide of Richard Fee highlights issues in the treatment of A.D.H.D., as youths fake symptoms to feed their addictions to potentially dangerous stimulants.",
+      "section": "U.S.",
+      "organiszations": [
+        "RITE AID CORPORATION",
+        "RAD",
+        "NYSE",
+        "CVS CAREMARK CORPORATION",
+        "CVS",
+        "NYSE"
+      ],
+      "subjects": [
+        "DRUGS (PHARMACEUTICALS)",
+        "YOUTH",
+        "DOCTORS"
+      ],
+      "locations": [],
+      "persons": [
+        "FEE, RICHARD",
+        "FEE, RICK",
+        "FEE, KATHY"
+      ],
+      "author": "By ALAN SCHWARZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/us/stimulant/stimulant-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/us/concerns-about-adhd-practices-and-amphetamine-addiction.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002040560",
+      "name": "In Hard Economy for All Ages, Older Isn’t Better ... It’s Brutal",
+      "abstract": "Recent data present a strong case for baby boomers as the greatest victims of the recession and its grim aftermath.",
+      "section": "Business Day",
+      "organiszations": [
+        "WELLESLEY COLLEGE"
+      ],
+      "subjects": [
+        "LAYOFFS AND JOB REDUCTIONS",
+        "LABOR AND JOBS",
+        "PENSIONS AND RETIREMENT PLANS",
+        "UNITED STATES ECONOMY"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By CATHERINE RAMPELL",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/business/older/older-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/business/americans-closest-to-retirement-were-hardest-hit-by-recession.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002041400",
+      "name": "Israeli Strike Into Syria Said to Damage Research Site",
+      "abstract": "The weapons research center has been the target of sanctions because of intelligence suggesting that it was the training site for engineers who worked on chemical and biological weaponry.",
+      "section": "World",
+      "organiszations": [
+        "NUCLEAR THREAT INITIATIVE"
+      ],
+      "subjects": [
+        "MIDDLE EAST AND NORTH AFRICA UNREST (2010- )",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "locations": [
+        "SYRIA",
+        "ISRAEL"
+      ],
+      "persons": [],
+      "author": "By DAVID E. SANGER, ERIC SCHMITT and JODI RUDOREN.",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/JP-SYRIA/JP-SYRIA-square320-v3.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/world/middleeast/syrian-weapons-center-said-to-be-damaged.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002040610",
+      "name": "Top Donors to Republicans Seek More Say in Senate Races",
+      "abstract": "The Republican Party’s biggest donors are financing a new group to recruit seasoned candidates and protect Senate incumbents from challenges by far-right conservatives and Tea Party enthusiasts.",
+      "section": "U.S.",
+      "organiszations": [
+        "REPUBLICAN PARTY",
+        "CONSERVATIVE VICTORY PROJECT",
+        "AMERICAN CROSSROADS"
+      ],
+      "subjects": [
+        "ELECTIONS, SENATE",
+        "CAMPAIGN FINANCE",
+        "TEA PARTY MOVEMENT",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "locations": [],
+      "persons": [
+        "LAW, STEVEN J."
+      ],
+      "author": "By JEFF ZELENY",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/us/REPUBS-1/REPUBS-1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/us/politics/top-gop-donors-seek-greater-say-in-senate-races.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002039750",
+      "name": "Why Police Lie Under Oath",
+      "abstract": "Perversely, the criminal justice system gives officers an incentive to perjure themselves.",
+      "section": "Opinion",
+      "organiszations": [
+        "POLICE DEPARTMENT (NYC)"
+      ],
+      "subjects": [
+        "POLICE BRUTALITY AND MISCONDUCT",
+        "LYING",
+        "SEARCH AND SEIZURE"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By MICHELLE ALEXANDER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/sunday-review/03POLICE/03POLICE-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/opinion/sunday/why-police-officers-lie-under-oath.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002029490",
+      "name": "The Boy With a Thorn in His Joints",
+      "abstract": "When 3-year-old Shepherd Strauss got sick, his parents turned to doctors and drugs. But they couldn’t anticipate that what would help him feel better didn’t come with a prescription.",
+      "section": "Magazine",
+      "organiszations": [],
+      "subjects": [
+        "RHEUMATOID ARTHRITIS, JUVENILE",
+        "ALTERNATIVE AND COMPLEMENTARY MEDICINE",
+        "INTESTINAL TRACT",
+        "ANTIBIOTICS"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By SUSANNAH MEADOWS",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/magazine/03arthritis1/03arthritis1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/magazine/the-boy-with-a-thorn-in-his-joints.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002042000",
+      "name": "Beyoncé Silences Doubters With Intensity at Halftime",
+      "abstract": "Beyoncé answered her critics during her halftime performance by singing live with fierceness and confidence. Late in her set, she was joined by her former sidekicks of Destiny’s Child.",
+      "section": "Sports",
+      "organiszations": [
+        "DESTINY'S CHILD"
+      ],
+      "subjects": [
+        "FOOTBALL",
+        "SUPER BOWL",
+        "MUSIC"
+      ],
+      "locations": [],
+      "persons": [
+        "KNOWLES, BEYONCE"
+      ],
+      "author": "By JON CARAMANICA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/SUB-halftime/SUB-halftime-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/beyonce-brings-intensity-to-halftime-show-and-silences-doubters.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002037500",
+      "name": "Weighing the End of Life",
+      "abstract": "How can we measure the quality of life, for our beloved pets or for older, infirm people?",
+      "section": "Opinion",
+      "organiszations": [],
+      "subjects": [
+        "DOGS",
+        "EUTHANASIA AND ASSISTED SUICIDE",
+        "DEATH AND DYING"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By LOUISE ARONSON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/sunday-review/03DOG/03DOG-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/opinion/sunday/weighing-the-end-of-life.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002042010",
+      "name": "Power Fails and 49ers Surge, but Ravens Win",
+      "abstract": "After a game delay because of a power failure, M.V.P. Joe Flacco and the Ravens, leading 28-6, withstood a determined comeback by the 49ers to win the Super Bowl.",
+      "section": "Sports",
+      "organiszations": [
+        "SAN FRANCISCO 49ERS",
+        "BALTIMORE RAVENS"
+      ],
+      "subjects": [
+        "SUPER BOWL",
+        "FOOTBALL"
+      ],
+      "locations": [],
+      "persons": [
+        "FLACCO, JOE",
+        "KAEPERNICK, COLIN"
+      ],
+      "author": "By JUDY BATTISTA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/football/20130204_SUPERBOWL_337-slide-91FK/20130204_SUPERBOWL_337-slide-91FK-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/ravens-beat-49ers-in-super-bowl-after-lights-go-out.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002041920",
+      "name": "Before Game is Decided, Superdome Goes Dark",
+      "abstract": "The lights on one half of the Superdome’s roof suddenly went out, making for one of the oddest, most embarrassing moments in Super Bowl history.",
+      "section": "Sports",
+      "organiszations": [
+        "MERCEDES BENZ SUPERDOME (NEW ORLEANS)",
+        "BALTIMORE RAVENS",
+        "SAN FRANCISCO 49ERS"
+      ],
+      "subjects": [
+        "POWER OUTAGES AND BLACKOUTS",
+        "FOOTBALL"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By KEN BELSON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/lights/lights-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/power-outage-in-superdome-delays-super-bowl.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002040440",
+      "name": "President Claims Shooting as a Hobby, and the White House Offers Evidence",
+      "abstract": "Comments by the president’s that he shoots clay pigeons “all the time” at Camp David draw surprise — and skepticism.",
+      "section": "U.S.",
+      "organiszations": [
+        "FACEBOOK INC",
+        "FB",
+        "NASDAQ"
+      ],
+      "subjects": [
+        "GUN CONTROL"
+      ],
+      "locations": [],
+      "persons": [
+        "OBAMA, BARACK"
+      ],
+      "author": "By PETER BAKER and MARK LANDLER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/us/politics/03skeet_image2/03skeet_image2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/us/politics/obamas-skeet-shooting-comments-draw-fire.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002039750",
+      "name": "My Grandfather the Outlaw",
+      "abstract": "Chapters in the immigration saga change. The risks and hopes stay the same.",
+      "section": "Opinion",
+      "organiszations": [],
+      "subjects": [
+        "IMMIGRATION AND EMIGRATION",
+        "ILLEGAL IMMIGRANTS"
+      ],
+      "locations": [
+        "UNITED STATES"
+      ],
+      "persons": [],
+      "author": "By FRANK BRUNI",
+      "image": "http://graphics8.nytimes.com/images/2011/06/24/opinion/Bruni_new/Bruni_new-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/opinion/sunday/bruni-my-grandfather-the-outlaw.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002040610",
+      "name": "Backstage Glimpses of Clinton as Dogged Diplomat, Win or Lose",
+      "abstract": "The instincts of Hillary Rodham Clinton, the departing secretary of state, were often more activist than those of a White House that has kept a tight grip on foreign policy.",
+      "section": "U.S.",
+      "organiszations": [],
+      "subjects": [
+        "UNITED STATES INTERNATIONAL RELATIONS",
+        "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "DEFENSE AND MILITARY FORCES"
+      ],
+      "locations": [],
+      "persons": [
+        "CLINTON, HILLARY RODHAM",
+        "OBAMA, BARACK",
+        "PETRAEUS, DAVID H"
+      ],
+      "author": "By MICHAEL R. GORDON and MARK LANDLER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/world/CLINTON/CLINTON-square320-v2.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/us/politics/in-behind-scene-blows-and-triumphs-sense-of-clinton-future.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002039490",
+      "name": "The Most Wanted Gun in America",
+      "abstract": "Aggressive marketing and savvy manufacturing have helped recast the place of guns in American life, turning AR-15-style rifles into a fast-growing profit center.",
+      "section": "Business Day",
+      "organiszations": [
+        "BUSHMASTER FIREARMS",
+        "GUNS & AMMO (MAGAZINE)",
+        "WINDHAM WEAPONRY"
+      ],
+      "subjects": [
+        "FIREARMS",
+        "ADVERTISING AND MARKETING",
+        "GUN CONTROL",
+        "NEWTOWN, CONN, SHOOTING (2012)"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By NATASHA SINGER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/03/business/03-GUNS1/03-GUNS1-square320-v3.jpg",
+      "website": "http://www.nytimes.com/2013/02/03/business/the-ar-15-the-most-wanted-gun-in-america.html",
+      "published_date": "2013-02-03"
+    },
+    {
+      "_id": "100000002041860",
+      "name": "Amid All the Contradictions, Another Championship for Lewis",
+      "abstract": "Even in festive New Orleans, the mood for Ray Lewis’s retirement party had been subdued, but the celebration began anew after the Ravens’ victory, sending Lewis out in style.",
+      "section": "Sports",
+      "organiszations": [
+        "BALTIMORE RAVENS"
+      ],
+      "subjects": [
+        "FOOTBALL"
+      ],
+      "locations": [],
+      "persons": [
+        "LEWIS, RAY"
+      ],
+      "author": "By BEN SHPIGEL",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/lewis1/lewis1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/ray-lewiss-legacy-of-greatness-and-contradictions.html",
+      "published_date": "2013-02-04"
+    }
+  ]
+}

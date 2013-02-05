@@ -6,9 +6,8 @@
 }
 
 html,body {
-  background: #EDEEE6;
+  background: #222;
   -webkit-font-smoothing: antialiased;
-	height: 100%;
 }
 
 #container {
@@ -112,7 +111,7 @@ Layout
   height: 40px;
   left: 0px;
   right: 0px;
-  background: rgba(0,0,0, 0.7);
+  background: #333;
   color: rgba(255, 255, 255, 0.4);
 }
 

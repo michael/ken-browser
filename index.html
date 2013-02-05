@@ -97,11 +97,6 @@
     <script type="text/javascript" src="lib/data.js"></script>
     <script type="text/javascript" src="lib/backbone.js"></script>
 
-    <!-- Data -->
-    <!--<script type="text/javascript" src="data/seed.js"></script>-->
-
-    <!--<script type="text/javascript" src="projects.js"></script>-->
-
     <script type="text/javascript" src="src/util.js"></script>
     <script type="text/javascript" src="src/model.js"></script>
 
@@ -112,7 +107,7 @@
 
     <script type="text/javascript">
       $(function() {
-        window.app = new Application();
+        window.app = new Application({ dataset: "data/articles_2013_02_05.json"});
         app.render();
 
         // Start responding to routes
@@ -132,8 +127,10 @@
   <body>
     <div id="container">
       <div id="header">
-        <div class="title">Most Popular on <a href="http://nytimes.com">NYTimes.com</a></div>
-        <div class="powered-by">powered by <a target="_blank" href="http://interior.substance.io/modules/ken.html">Substance Ken</a> and the <a target="_blank" href="http://developer.nytimes.com/docs/read/most_popular_api">New York Times API</a>, funded by <a target="_blank" href="http://www.rave.ac.uk/">Ravensbourne</a></div>
+        <div class="title"><a href="/">Ken</a> - A Visual Knowledge Browser</div>
+        <div class="powered-by">
+          Like it? Learn how to <a href="info.html">visualize your own data</a>.
+        </div>
       </div>
       <div id="main">
         Main Content

@@ -1,0 +1,17 @@
+#info {
+  background: #222;
+}
+
+.content {
+  width: 800px;
+  margin-top: 40px;
+  margin-left: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: rgba(255,255,255, 0.8);
+  background: #222;
+}
+
+#info p {
+  color: rgba(255,255,255, 0.6);
+}
