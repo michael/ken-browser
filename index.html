@@ -23,7 +23,10 @@
       <% } else { %>
         h1><%= object.get('name') %></h1>
       <% } %>
-      <div class="abstract"><%= object.get('abstract') %></div>
+      <div class="abstract">
+        <%= object.get('abstract') %>
+        [ <a href="<%= object.get('website') %>" target="_blank">Read More</a> ]
+      </div>
       <% _.each(object.type().properties, function(p, key) { %>
         <% if (p.meta && p.meta.details) { %>
           <div class="property">
@@ -129,7 +132,8 @@
       <div id="header">
         <div class="title"><a href="/">Ken</a> - A Visual Knowledge Browser</div>
         <div class="powered-by">
-          Like it? Learn how to <a href="info.html">visualize your own data</a>.
+          example data provided by <a target="_blank" href="http://developer.nytimes.com/docs/read/most_popular_api">NYTimes API</a>
+          &nbsp;&nbsp; &middot; &nbsp;&nbsp;<a href="info.html">Connect your own data</a>
         </div>
       </div>
       <div id="main">

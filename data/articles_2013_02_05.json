@@ -8,11 +8,29 @@
         "type": "string",
         "unique": true
       },
+      "section": {
+        "name": "Section",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
       "author": {
         "name": "Author",
         "type": "string",
         "unique": true,
         "meta": {
+          "details": true
+        }
+      },
+      "persons": {
+        "name": "Persons",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
           "details": true
         }
       },
@@ -35,15 +53,6 @@
           "details": true
         }
       },
-      "persons": {
-        "name": "Persons",
-        "type": "string",
-        "unique": false,
-        "meta": {
-          "facet": true,
-          "details": true
-        }
-      },
       "image": {
         "name": "Image",
         "type": "string",
@@ -53,15 +62,6 @@
         "name": "Abstract",
         "type": "string",
         "unique": true
-      },
-      "section": {
-        "name": "Section",
-        "type": "string",
-        "unique": true,
-        "meta": {
-          "facet": true,
-          "details": true
-        }
       },
       "subjects": {
         "name": "Subjects",

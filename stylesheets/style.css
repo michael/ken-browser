@@ -22,7 +22,8 @@ body, textarea, p, input {
 }
 
 a {
-  color: #0297d6;
+  color: rgba(255,255,255, 0.8);
+  font-weight: bold;
   text-decoration: none;
   -moz-transition: background-color 100ms linear, color 100ms linear, opacity 100ms linear;
   -o-transition: background-color 100ms linear, color 100ms linear, opacity 100ms linear;
@@ -31,14 +32,10 @@ a {
 }
 
 a:hover {
-  color: #0276a7;
+  color: rgba(255,255,255, 1.0);
 }
 
-a:active { color: #505050; }
 
-a:focus, a:active {
-  outline: none;
-}
 
 img { border: 1px solid #d4d4d4; }
 

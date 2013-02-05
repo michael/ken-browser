@@ -15,7 +15,6 @@
   position: absolute;
   right: 0px;
   top: 0px;
-  padding-top: 30px;
   bottom: 0px;
   width: 300px;
   z-index: 5;
@@ -35,15 +34,13 @@
 }
 
 #facets .filter .filter-name {
-  background: rgba(0,0,0, 0.5);
+  background: rgba(255,255,255, 0.15);
   font: 700 .875em/1.5 'Open Sans Condensed', sans-serif; 
   color: #fff;
-  font-size: 12px;
+  font-size: 14px;
   height: 20px;
   line-height: 20px;
   padding-left: 20px;
-  
-  font-size: 10px;
   text-transform: uppercase;
 }
 
@@ -56,25 +53,23 @@
 }
 
 #facets .filter .selected-values a.value {
-  /*background: rgba(0,0,0, 0.05);*/
   font-weight: bold;
-  /*color: #444;*/
   color: rgba(255,255,255, 0.9);
 }
 
 #facets .filter .available-values a.value {
-  /*background: #E2E3DB;*/
   color: #999;
 }
 
 #facets .filter .available-values a.value:hover {
-  background: rgba(0,0,0, 0.04);
+  background: rgba(255,255,255, 0.1);
 }
 
 #facets .filter a.value {
   font-size: 11px;
   line-height: 25px;
   height: 25px;
+  font-weight: normal;
   display: block;
   padding-left: 20px;
   position: relative;
@@ -83,6 +78,7 @@
 
 #facets .filter a.value.related {
   font-weight: bold;
+  color: rgba(255,255,255, 0.9);
 }
 
 #facets .filter a.value .indicators {
@@ -93,22 +89,27 @@
   width: 60px;
 }
 
-#facets .filter a.value .indicators .related-objects {
+#facets .filter a.value .indicators .matching-objects {
   position: absolute;
   top: 10px;
   right: 30px;
-  height: 4px;
-  width: 50px;
-  background: rgba(255,255,255, 0.5);
-}
-
-#facets .filter a.value .indicators .matching-objects {
-  position: absolute;
-  top: 15px;
-  right: 30px;
   height: 2px;
   width: 50px;
-  background: rgba(255,255,255, 0.3);
+  background: rgba(255,255,255, 0.4);
+}
+
+#facets .filter .selected-values a.value .indicators .matching-objects {
+  background: rgba(255,255,255, 0.6);
+}
+
+#facets .filter a.value .indicators .related-objects {
+  position: absolute;
+  
+  top: 13px;
+  right: 30px;
+  height: 4px;
+  width: 50px;
+  background: rgba(255,255,255, 0.6);
 }
 
 #facets .filter a.value .indicators .frequency {
@@ -117,11 +118,9 @@
   right: 0px;
   bottom: 0px;
   width: 20px;
-  /*background: #555;*/
   line-height: 25px;
   padding: 0 15px;
   text-align: right;
-  /*color: #555;*/
   font-size: 11px;
   font-weight: bold;
 }
@@ -137,7 +136,6 @@
   right: 320px;
   bottom: 20px;
   overflow: auto;
-  /*background: #222;*/
 }
 
 #matrix .item {
@@ -165,11 +163,6 @@
 
 #matrix .item.highlighted {
   opacity: 1;
-
-/*  transform: scale3d(1.0,1.0,1.2);
-  -webkit-transform: scale3d(1.0,1.0,1.2);
-  -moz-transform: scale3d(1.0,1.0,1.2);*/
-
 }
 
 #matrix .item:hover, #matrix .item.active {
@@ -181,7 +174,6 @@
 }
 
 #matrix .item .name {
-  /*display: none;*/
   font: 700 .875em/1.5 'Open Sans Condensed', sans-serif;
   position: absolute;
   top: 0px;
@@ -189,7 +181,6 @@
   right: 0px;
   font-size: 14px;
   text-align: left;
-  /*font-weight: bold;*/
   background: rgba(0,0,0, 0.8);
   padding: 0 10px;
   color: #fff;
@@ -223,7 +214,6 @@
 
 #details {
   display: none;
-  /*opacity: 0;*/
   z-index: 200;
   position: absolute;
   right: 0px;
@@ -231,8 +221,6 @@
   bottom: 0px;
   overflow: auto;
 
-  /*background: #D9DBD1;*/
-  /*background: rgba(0,0,0,0.8);*/
   background: #060606;
   color: rgba(255,255,255, 0.7);
 
@@ -243,7 +231,6 @@
   -webkit-transition-duration: 0.75s;
   -moz-transition-duration: 0.75s;
   transition-duration: 0.75s;
-  /*padding-right: 15px;*/
 
   width: 300px;
 }
@@ -291,16 +278,13 @@
 }
 
 #details.active {
-  /*display: block;*/
   z-index: 200;
   bottom: 10px;
-  /*opacity: 1;*/
 }
 
 #details img {
   width: 100%;
 }
-
 
 #details h1 {
   padding: 5px 0px;

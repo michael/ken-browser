@@ -465,7 +465,9 @@ Ken.Facets = Backbone.View.extend({
 Ken.Browser = Backbone.View.extend({
   events: {
     'click .item': 'toggleDetails',
+    'click .item': 'toggleDetails',
     'click .close-details': 'closeDetails',
+    'click #matrix': 'closeDetails',
     'mouseover a.value': 'highlightValue',
     'mouseout a.value': 'unhighlightValue'
   },
@@ -490,6 +492,7 @@ Ken.Browser = Backbone.View.extend({
   closeDetails: function() {
     $('#matrix .item').removeClass('eased');
     this.prevId = null;
+    $('#matrix .item.active').removeClass('active');
     return this.$('#details').hide();
   },
 

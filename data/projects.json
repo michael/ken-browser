@@ -1,0 +1,69 @@
+{
+  "type": {
+    "_id": "/type/article",
+    "name": "Projects",
+    "properties": {
+      "name": {
+        "name": "Article Name",
+        "type": "string",
+        "unique": true
+      },
+      "author": {
+        "name": "Author",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "details": true
+        }
+      },
+      "website": {
+        "name": "Website",
+        "type": "string",
+        "unique": true
+      },
+      "image": {
+        "name": "Image",
+        "type": "string",
+        "unique": true
+      },
+      "abstract": {
+        "name": "Abstract",
+        "type": "string",
+        "unique": true
+      },
+      "subjects": {
+        "name": "Subjects",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      }
+    }
+  },
+  "objects": [
+    {
+      "_id": "project-a",
+      "name": "Project A",
+      "abstract": "Project A is there to demonstrate how a visual knowledge browser can be populated with custom data",
+      "subjects": [
+        "Computer Art", "3D Modelling"
+      ],
+      "author": "Michael Aufreiter",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/us/SHALE-1/SHALE-1-square320.jpg",
+      "website": "http://twitter.com/_mql"
+    },
+    {
+      "_id": "project-b",
+      "name": "Project B",
+      "abstract": "Project B also for demo purposes",
+      "subjects": [
+        "Computer Art", "Javascript"
+      ],
+      "author": "Michael Aufreiter",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/africa/Timbuktu/Timbuktu-square320.jpg",
+      "website": "http://twitter.com/_mql"
+    }
+  ]
+}
