@@ -83,14 +83,14 @@ You probably have a data-service already. However, the data needs to be converte
 You can adjust the style of your knowledge browser.
 
 - `stylesheets/style.css` - Contains the page layout
-- `stylesheets/ken.css` - Contains the styles for the matrix plot
+- `stylesheets/ken.css` - Contains the styles for the visualization
 
 
 ## Adjust Javascript
 
-Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request.
+Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request via GitHub.
 
 
 ## Keep in sync with the original repo
 
-Make sure you pull in changes from the original repo from time to time so you can utilize the latest features and benefit from bugfixes.
+Make sure you pull in changes from the original repo from time to time, so you can utilize the latest features and benefit from bugfixes.
