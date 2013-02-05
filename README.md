@@ -31,7 +31,11 @@ $ python -m SimpleHTTPServer 8888 &
 
 By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly and make yourself comfortable with the data format.
 
-Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the specified type.
+Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the specified type. However after you've made yourself familiar with the data format, it's time to create your own data file `data/my_projects`.
+
+You can change the dataset that gets loaded by default by changing one line in index.html.
+
+	window.app = new Application({ dataset: "data/my_projects.json"});
 
 ### Data Type
 
