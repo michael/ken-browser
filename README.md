@@ -98,6 +98,10 @@ You can adjust the style of your knowledge browser.
 Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request via GitHub.
 
 
-## Keep in sync with the original repo
+## Keep In sync With The Original Repo
 
 Make sure you pull in changes from the original repo from time to time, so you can utilize the latest features and benefit from bugfixes.
+
+## Credits
+
+Ken is a project by [Quasipartikel](http://quasipartikel.at), made possible by our friends at [Ravensbourne](http://www.rave.co.uk), who have sponsored initial development.
