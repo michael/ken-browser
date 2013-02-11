@@ -2,7 +2,7 @@
 
 Ken is a visual browsing interface for exploring resources of different kinds. Here's how it looks like when a collection of NYTimes articles is visualized.
 
-![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
+![](http://f.cl.ly/items/3u0z0Z021z1I000e2Z0j/Screen%20Shot%202013-02-11%20at%2010.33.49%20AM.png)
 
 
 ## Integrate With Your Own Data
