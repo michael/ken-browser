@@ -1,0 +1,537 @@
+{
+  "type": {
+    "_id": "/type/article",
+    "name": "Projects",
+    "properties": {
+      "name": {
+        "name": "Article Name",
+        "type": "string",
+        "unique": true
+      },
+      "author": {
+        "name": "Author",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "details": true
+        }
+      },
+      "published_date": {
+        "name": "Published Date",
+        "type": "date",
+        "unique": true
+      },
+      "website": {
+        "name": "Website",
+        "type": "string",
+        "unique": true
+      },
+      "locations": {
+        "name": "Locations",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "persons": {
+        "name": "Persons",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "image": {
+        "name": "Image",
+        "type": "string",
+        "unique": true
+      },
+      "abstract": {
+        "name": "Abstract",
+        "type": "string",
+        "unique": true
+      },
+      "section": {
+        "name": "Section",
+        "type": "string",
+        "unique": true,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      },
+      "subjects": {
+        "name": "Subjects",
+        "type": "string",
+        "unique": false,
+        "meta": {
+          "facet": true,
+          "details": true
+        }
+      }
+    }
+  },
+  "objects": [
+    {
+      "_id": "100000002053790",
+      "name": "Storm Leaves Northeast Reeling and Digging",
+      "abstract": "A midwinter storm buried several states in snow, leaving behind a debilitated region digging through plump white drifts and reeling from gale-force winds.",
+      "section": "N.Y. / Region",
+      "organiszations": [
+        "CONSOLIDATED EDISON INC",
+        "ED",
+        "NYSE"
+      ],
+      "subjects": [
+        "SNOW AND SNOWSTORMS"
+      ],
+      "locations": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY"
+      ],
+      "persons": [],
+      "author": "By N. R. KLEINFIELD and MARC SANTORA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/10/us/10snow_2/10snow_2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/10/nyregion/winter-storm-northeast.html",
+      "published_date": "2013-02-10"
+    },
+    {
+      "_id": "100000002042100",
+      "name": "Bones Under Parking Lot Belonged to Richard III",
+      "abstract": "In one of Britain’s most dramatic modern archaeological finds, tests identified the remains of the reviled English monarch, a discovery that could lead to a reassessment of his reign.",
+      "section": "World",
+      "organiszations": [
+        "UNIVERSITY OF LEICESTER"
+      ],
+      "subjects": [
+        "SKELETONS",
+        "ARCHAEOLOGY"
+      ],
+      "locations": [
+        "LEICESTER (ENGLAND)",
+        "GREAT BRITAIN"
+      ],
+      "persons": [
+        "RICHARD III, KING OF ENGLAND"
+      ],
+      "author": "By JOHN F. BURNS",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/world/04Richard_cnd/04Richard_cnd-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/world/europe/richard-the-third-bones.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002051330",
+      "name": "Storm’s Heavy Snow and High Winds Lash at the Northeast",
+      "abstract": "After a day of pelting wet snow, five states had called states of emergency, and Massachusetts had banned cars from every road in the state. Conditions quickly worsened after dusk fell.",
+      "section": "N.Y. / Region",
+      "organiszations": [],
+      "subjects": [
+        "SNOW AND SNOWSTORMS",
+        "WEATHER"
+      ],
+      "locations": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY",
+        "MASSACHUSETTS"
+      ],
+      "persons": [],
+      "author": "By KATHARINE Q. SEELYE",
+      "image": "http://graphics8.nytimes.com/images/2013/02/09/nyregion/20130209snow-337-slide-5GB0/20130209snow-337-slide-5GB0-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/09/nyregion/major-snowstorm-arriving-in-northeast.html",
+      "published_date": "2013-02-09"
+    },
+    {
+      "_id": "100000002042420",
+      "name": "Why Can Some Kids Handle Pressure While Others Fall Apart?",
+      "abstract": "Scientists think bouts of panic in stressful situations can be traced to genetics. But don’t freak out. Biology is not necessarily destiny.",
+      "section": "Magazine",
+      "organiszations": [],
+      "subjects": [
+        "ANXIETY AND STRESS",
+        "TESTS AND EXAMINATIONS",
+        "CHILDREN AND CHILDHOOD"
+      ],
+      "locations": [
+        "TAIWAN"
+      ],
+      "persons": [],
+      "author": "By PO BRONSON and ASHLEY MERRYMAN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/10/magazine/10warriors1/10warriors1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/10/magazine/why-can-some-kids-handle-pressure-while-others-fall-apart.html",
+      "published_date": "2013-02-10"
+    },
+    {
+      "_id": "100000002048840",
+      "name": "Flights and Trains Canceled as Storm Heads to Northeast",
+      "abstract": "Local authorities from New York City to Maine were preparing Thursday for what forecasters said could be the heaviest snowfall to hit some cities in the Northeast in a century.",
+      "section": "N.Y. / Region",
+      "organiszations": [
+        "CONSOLIDATED EDISON INC",
+        "ED",
+        "NYSE"
+      ],
+      "subjects": [
+        "WEATHER",
+        "SNOW AND SNOWSTORMS"
+      ],
+      "locations": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY",
+        "MASSACHUSETTS"
+      ],
+      "persons": [],
+      "author": "By MARC SANTORA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/08/nyregion/SNOW/SNOW-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/08/nyregion/northeast-could-be-hit-with-major-snowstorm.html",
+      "published_date": "2013-02-08"
+    },
+    {
+      "_id": "100000002043630",
+      "name": "Standoff in Alabama Ends in Boy’s Rescue and Kidnapper’s Death",
+      "abstract": "The man who held a five-year-old boy in a bunker for days was killed during a rescue operation by federal agents.",
+      "section": "U.S.",
+      "organiszations": [],
+      "subjects": [
+        "HOSTAGES",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "locations": [
+        "MIDLAND CITY (ALA)",
+        "ALABAMA"
+      ],
+      "persons": [
+        "DYKES, JIMMY LEE"
+      ],
+      "author": "By ROBBIE BROWN and CAMPBELL ROBERTSON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/us/05hostage1_span/05hostage1_span-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/us/boy-is-safe-after-alabama-hostage-standoff.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002049310",
+      "name": "Manhunt On for Ex-Officer Accused of Police Vendetta",
+      "abstract": "The Los Angeles police said a former officer was targeting members of the department and their families. His truck was found burned near a ski area east of Los Angeles.",
+      "section": "U.S.",
+      "organiszations": [
+        "LOS ANGELES POLICE DEPARTMENT"
+      ],
+      "subjects": [
+        "ATTACKS ON POLICE",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "locations": [
+        "CALIFORNIA",
+        "LOS ANGELES (CALIF)"
+      ],
+      "persons": [
+        "DORNER, CHRISTOPHER JORDAN",
+        "DORNER, CHRISTOPHER J"
+      ],
+      "author": "By ADAM NAGOURNEY and IAN LOVETT",
+      "image": "http://graphics8.nytimes.com/images/2013/02/08/us/JP-SHOOTING-1/JP-SHOOTING-1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/08/us/former-los-angeles-police-officer-sought-in-shootings.html",
+      "published_date": "2013-02-08"
+    },
+    {
+      "_id": "100000002049190",
+      "name": "Restored Payroll Tax Pinches Those Who Earn the Least",
+      "abstract": "At street level, the pain from the expiration of a two-percentage-point break in Social Security taxes in 2011 and 2012 is evident.",
+      "section": "Business Day",
+      "organiszations": [
+        "WHOLE FOODS MARKET INC",
+        "WFM",
+        "NASDAQ",
+        "WAL-MART STORES INC",
+        "WMT",
+        "NYSE"
+      ],
+      "subjects": [
+        "UNITED STATES ECONOMY",
+        "INCOME TAX"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By NELSON D. SCHWARTZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/08/business/economy/08tax-pic/08tax-pic-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/08/business/restored-payroll-tax-pinches-those-with-the-smallest-checks.html",
+      "published_date": "2013-02-08"
+    },
+    {
+      "_id": "100000002051360",
+      "name": "Cold Trail and Blizzard Hamper Search for Ex-Officer in California Killings",
+      "abstract": "As no new traces of Christopher J. Dorner, wanted in three shooting deaths, were found, the authorities wondered if he had somehow slipped through their fingers.",
+      "section": "U.S.",
+      "organiszations": [
+        "FACEBOOK INC",
+        "FB",
+        "NASDAQ",
+        "HONDA MOTOR CO LTD",
+        "HMC",
+        "NYSE"
+      ],
+      "subjects": [
+        "ATTACKS ON POLICE",
+        "POLICE"
+      ],
+      "locations": [
+        "LOS ANGELES (CALIF)"
+      ],
+      "persons": [
+        "DORNER, CHRISTOPHER JORDAN"
+      ],
+      "author": "By IAN LOVETT",
+      "image": "http://graphics8.nytimes.com/images/2013/02/09/us/SHOOTING/SHOOTING-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/09/us/california-police-officer-manhunt.html",
+      "published_date": "2013-02-09"
+    },
+    {
+      "_id": "100000002049110",
+      "name": "Rat-Size Ancestor Said to Link Man and Beast",
+      "abstract": "A lowly occupant of the fossil record, Protungulatum donnae, had anatomical characteristics for live births that anticipated all placental mammals, a Science report says.",
+      "section": "Science",
+      "organiszations": [
+        "SCIENCE (JOURNAL)",
+        "NATIONAL SCIENCE FOUNDATION",
+        "AMERICAN MUSEUM OF NATURAL HISTORY",
+        "CARNEGIE MUSEUM OF NATURAL HISTORY"
+      ],
+      "subjects": [
+        "MAMMALS",
+        "PALEONTOLOGY"
+      ],
+      "locations": [],
+      "persons": [
+        "O'LEARY, MAUREEN A"
+      ],
+      "author": "By JOHN NOBLE WILFORD",
+      "image": "http://graphics8.nytimes.com/images/2013/02/07/science/mammal-render/mammal-render-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/08/science/common-ancestor-of-mammals-plucked-from-obscurity.html",
+      "published_date": "2013-02-08"
+    },
+    {
+      "_id": "100000002041140",
+      "name": "Untouchable in Iraq, Ex-Sniper Dies in a Shooting Back Home",
+      "abstract": "Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun range for a kind of therapy session, but the police said the man turned his gun on Mr. Kyle.",
+      "section": "U.S.",
+      "organiszations": [
+        "NAVY SEALS"
+      ],
+      "subjects": [
+        "MURDERS AND ATTEMPTED MURDERS",
+        "VETERANS"
+      ],
+      "locations": [
+        "TEXAS"
+      ],
+      "persons": [
+        "KYLE, CHRIS (1974-2013)",
+        "ROUTH, EDDIE RAY"
+      ],
+      "author": "By MANNY FERNANDEZ and MICHAEL SCHWIRTZ",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/us/04author_2/04author_2-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/us/chris-kyle-american-sniper-author-reported-killed.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002046500",
+      "name": "Trying to Stem Losses, Post Office Seeks to End Saturday Letter Delivery",
+      "abstract": "The Postal Service said a five-day mail delivery schedule would begin in August and would shave about $2 billion a year from its losses, which were $15.9 billion last year.",
+      "section": "U.S.",
+      "organiszations": [
+        "POSTAL SERVICE (US)",
+        "SENATE",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "subjects": [
+        "POSTAL SERVICE AND POST OFFICES"
+      ],
+      "locations": [],
+      "persons": [
+        "DONAHOE, PATRICK R"
+      ],
+      "author": "By RON NIXON",
+      "image": "http://graphics8.nytimes.com/images/2013/02/07/us/jp-POSTAL/jp-POSTAL-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/07/us/postal-service-plans-to-end-saturday-delivery.html",
+      "published_date": "2013-02-07"
+    },
+    {
+      "_id": "100000002046040",
+      "name": "Drone Strikes’ Risks to Get Rare Moment in the Public Eye",
+      "abstract": "The chief architect of a clandestine campaign of targeted killings, John O. Brennan, will face a Senate confirmation hearing as President Obama’s nominee for C.I.A. director.",
+      "section": "World",
+      "organiszations": [
+        "CENTRAL INTELLIGENCE AGENCY",
+        "UNITED STATES SPECIAL OPERATIONS COMMAND",
+        "AL QAEDA"
+      ],
+      "subjects": [
+        "DRONES (PILOTLESS PLANES)",
+        "TARGETED KILLINGS"
+      ],
+      "locations": [
+        "YEMEN",
+        "PAKISTAN",
+        "SOMALIA"
+      ],
+      "persons": [
+        "BRENNAN, JOHN O"
+      ],
+      "author": "By ROBERT F. WORTH, MARK MAZZETTI and SCOTT SHANE",
+      "image": "http://graphics8.nytimes.com/images/2013/02/06/world/JP-BRENNAN-1/JP-BRENNAN-1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/06/world/middleeast/with-brennan-pick-a-light-on-drone-strikes-hazards.html",
+      "published_date": "2013-02-06"
+    },
+    {
+      "_id": "100000002042000",
+      "name": "Beyoncé Silences Doubters With Intensity at Halftime",
+      "abstract": "Beyoncé answered her critics during her halftime performance by singing live with fierceness and confidence. Late in her set, she was joined by her former sidekicks of Destiny’s Child.",
+      "section": "Sports",
+      "organiszations": [
+        "DESTINY'S CHILD"
+      ],
+      "subjects": [
+        "FOOTBALL",
+        "SUPER BOWL",
+        "MUSIC"
+      ],
+      "locations": [],
+      "persons": [
+        "KNOWLES, BEYONCE"
+      ],
+      "author": "By JON CARAMANICA",
+      "image": "http://graphics8.nytimes.com/images/2013/02/04/sports/SUB-halftime/SUB-halftime-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/04/sports/football/beyonce-brings-intensity-to-halftime-show-and-silences-doubters.html",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002043980",
+      "name": "The Philosophy of Data",
+      "abstract": "Our ability to gather and process huge amounts of data does many things, including correcting intuitive biases and illuminating patterns of behavior.",
+      "section": "Opinion",
+      "organiszations": [],
+      "subjects": [
+        "DATA-MINING AND DATABASE MARKETING",
+        "STATISTICS",
+        "POLITICAL ADVERTISING",
+        "PSYCHOLOGY AND PSYCHOLOGISTS"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By DAVID BROOKS",
+      "image": "http://graphics8.nytimes.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/opinion/brooks-the-philosophy-of-data.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002043050",
+      "name": "Seven Days on the Queen Mary 2",
+      "abstract": "Sex, food and the allure of the wintry North Atlantic aboard the biggest ocean liner in the world.",
+      "section": "Travel",
+      "organiszations": [
+        "CUNARD LINE LTD"
+      ],
+      "subjects": [
+        "TRAVEL AND VACATIONS"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By DWIGHT GARNER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/10/travel/10QUEEN1_SPAN/10QUEEN1_SPAN-square320.jpg",
+      "website": "http://travel.nytimes.com/2013/02/10/travel/seven-days-on-the-queen-mary-2.html",
+      "published_date": "2013-02-10"
+    },
+    {
+      "_id": "100000002050740",
+      "name": "For a Global Life, Bloomberg Builds His Own British Empire",
+      "abstract": "Michael R. Bloomberg, imagining life after City Hall, is exporting vast quantities of financial, social and political capital to London, where he has long yearned for influence.",
+      "section": "N.Y. / Region",
+      "organiszations": [
+        "BLOOMBERG LP"
+      ],
+      "subjects": [],
+      "locations": [
+        "LONDON (ENGLAND)"
+      ],
+      "persons": [
+        "BLOOMBERG, MICHAEL R",
+        "JOHNSON, BORIS"
+      ],
+      "author": "By MICHAEL M. GRYNBAUM",
+      "image": "http://graphics8.nytimes.com/images/2013/02/08/nyregion/Y-LONDON1/Y-LONDON1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/08/nyregion/bloomberg-builds-an-empire-in-london.html",
+      "published_date": "2013-02-08"
+    },
+    {
+      "_id": "24",
+      "name": "Warning Too Late for Some Babies",
+      "abstract": "An F.D.A. warning not to use a thickener with xanthan gum - a common food additive - for any infants comes after a number of deaths from intestinal damage.",
+      "section": "Health",
+      "organiszations": [
+        "FOOD AND DRUG ADMINISTRATION",
+        "SIMPLYTHICK LLC"
+      ],
+      "subjects": [
+        "BABIES AND INFANTS",
+        "INFANT FORMULAS",
+        "MEDICINE AND HEALTH",
+        "NECROTIZING ENTEROCOLITIS",
+        "PREMATURE BABIES"
+      ],
+      "locations": [],
+      "persons": [],
+      "author": "By CATHERINE SAINT LOUIS",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/science/05THIC/05THIC-square320.jpg",
+      "website": "http://well.blogs.nytimes.com/2013/02/04/warning-too-late-for-some-babies/",
+      "published_date": "2013-02-04"
+    },
+    {
+      "_id": "100000002042300",
+      "name": "Police Call Match-Fixing Widespread in Soccer",
+      "abstract": "A 19-month investigation by a European intelligence agency found that nearly 700 games globally may have been fixed, with profits from the wide-ranging scandal totaling about $11 million.",
+      "section": "Sports",
+      "organiszations": [
+        "EUROPOL"
+      ],
+      "subjects": [
+        "SOCCER",
+        "ORGANIZED CRIME",
+        "GAMBLING"
+      ],
+      "locations": [
+        "EUROPE",
+        "GREAT BRITAIN"
+      ],
+      "persons": [],
+      "author": "By SAM BORDEN",
+      "image": "http://graphics8.nytimes.com/images/2013/02/05/sports/jpFIXING/jpFIXING-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/05/sports/soccer/investigation-finds-suspected-fixing-in-680-soccer-matches.html",
+      "published_date": "2013-02-05"
+    },
+    {
+      "_id": "100000002043190",
+      "name": "Winning a Losing Battle",
+      "abstract": "Jesse Schenker, the chef at Recette, has shown that even someone constantly surrounded by food can control his consumption enough to shed 55 pounds.",
+      "section": "Dining & Wine",
+      "organiszations": [
+        "RECETTE (MANHATTAN, NY, RESTAURANT)"
+      ],
+      "subjects": [
+        "COOKING AND COOKBOOKS",
+        "CHEFS",
+        "RESTAURANTS"
+      ],
+      "locations": [],
+      "persons": [
+        "SCHENKER, JESSE",
+        "GULLO, STEPHEN P"
+      ],
+      "author": "By JEFF GORDINIER",
+      "image": "http://graphics8.nytimes.com/images/2013/02/06/dining/06DIET1/06DIET1-square320.jpg",
+      "website": "http://www.nytimes.com/2013/02/06/dining/how-jesse-schenker-chef-at-recette-lost-55-pounds.html",
+      "published_date": "2013-02-06"
+    }
+  ]
+}

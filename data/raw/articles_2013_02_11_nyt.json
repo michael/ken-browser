@@ -1,0 +1,3023 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+  "num_results": 949,
+  "results": [
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/10\/nyregion\/winter-storm-northeast.html",
+      "adx_keywords": "Snow and Snowstorms;Northeastern States (US);New York City",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By N. R. KLEINFIELD and MARC SANTORA",
+      "type": "Article",
+      "title": "Storm Leaves Northeast Reeling and Digging",
+      "abstract": "A midwinter storm buried several states in snow, leaving behind a debilitated region digging through plump white drifts and reeling from gale-force winds.",
+      "published_date": "2013-02-10",
+      "source": "The New York Times",
+      "id": "100000002053786",
+      "asset_id": 1.0000000205379e+14,
+      "views": 714878,
+      "des_facet": [
+        "SNOW AND SNOWSTORMS"
+      ],
+      "org_facet": [
+        "CONSOLIDATED EDISON INC",
+        "ED",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hundreds of people and more than a few dogs took advantage of a snowy Prospect Park in Brooklyn, N.Y.",
+          "copyright": "Spencer Platt\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/10snow_2\/10snow_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/10snow_2\/10snow_2-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/10snow_2\/10snow_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/10snow_2\/10snow_2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At Gedney Park in New Castle, N.Y., children took to the snowy hills on sleds and tubes.",
+          "copyright": "Suzanne DeChillo\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/nyregion\/JP-SNOW-3\/JP-SNOW-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/nyregion\/JP-SNOW-3\/JP-SNOW-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/nyregion\/JP-SNOW-3\/JP-SNOW-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/nyregion\/JP-SNOW-3\/JP-SNOW-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bruce Vienneau, 61, shovel in hand, worked to clear his driveway in Carlisle, Mass., on Saturday, the second day of a giant storm that dropped more than two feet of snow in parts of Massachusetts.",
+          "copyright": "Evan McGlinn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/SUB-JP-SNOW-1\/SUB-JP-SNOW-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/SUB-JP-SNOW-1\/SUB-JP-SNOW-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 123,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/SUB-JP-SNOW-1\/SUB-JP-SNOW-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/SUB-JP-SNOW-1\/SUB-JP-SNOW-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People began to dig out in Westchester, N.Y.",
+          "copyright": "Suzanne DeChillo\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/JPSNOW3\/JPSNOW3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/JPSNOW3\/JPSNOW3-articleInline.jpg",
+              "format": "Normal",
+              "height": 131,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/JPSNOW3\/JPSNOW3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/us\/JPSNOW3\/JPSNOW3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/world\/europe\/richard-the-third-bones.html",
+      "adx_keywords": "Leicester (England);Richard III, King of England;University of Leicester;Skeletons;Archaeology;Great Britain",
+      "column": "",
+      "section": "World",
+      "byline": "By JOHN F. BURNS",
+      "type": "Article",
+      "title": "Bones Under Parking Lot Belonged to Richard III",
+      "abstract": "In one of Britain\u2019s most dramatic modern archaeological finds, tests identified the remains of the reviled English monarch, a discovery that could lead to a reassessment of his reign.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042102",
+      "asset_id": 1.000000020421e+14,
+      "views": 662404,
+      "des_facet": [
+        "SKELETONS",
+        "ARCHAEOLOGY"
+      ],
+      "org_facet": [
+        "UNIVERSITY OF LEICESTER"
+      ],
+      "per_facet": [
+        "RICHARD III, KING OF ENGLAND"
+      ],
+      "geo_facet": [
+        "LEICESTER (ENGLAND)",
+        "GREAT BRITAIN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The skeleton found last fall near the buried ruins of the Greyfriars Priory in Leicester was confirmed on Monday by a team of experts to be that of King Richard III.",
+          "copyright": "Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Ibsen is one of two descendants of Richard III’s sister, Anne of York, whose DNA was used to confirm the identity of the skeleton found beneath a parking lot in Leicester.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/britain-2\/britain-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Skeletal remains found in an English parking lot, including a tortuously curved spine, were confirmed as those of Richard III.",
+          "copyright": "University of Leicester",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-articleInline.jpg",
+              "format": "Normal",
+              "height": 449,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/BRITAIN-REFER\/BRITAIN-REFER-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The skeleton found last fall near the buried ruins of the Greyfriars Priory in Leicester was confirmed on Monday by a team of experts to be that of King Richard III.",
+          "copyright": "Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/world\/04Richard_cnd\/04Richard_cnd-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-articleInline.jpg",
+              "format": "Normal",
+              "height": 101,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/world\/europe\/05britain-map\/05britain-map-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2013\/02\/04\/gluten-free-whether-you-need-it-or-not\/",
+      "adx_keywords": "Gluten; Celiac Disease; Digestive Tract; Grain; Medicine and Health",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By KENNETH CHANG",
+      "type": "Blog",
+      "title": "Gluten-Free, Whether You Need It or Not ",
+      "abstract": "Avoiding gluten is a must for those with celiac disease, but many people are going gluten-free in a bid for a healthy diet.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": 24,
+      "asset_id": 24,
+      "views": 540767,
+      "des_facet": [
+        "CELIAC DISEASE",
+        "DIGESTIVE TRACT",
+        "GLUTEN",
+        "GRAIN",
+        "MEDICINE AND HEALTH"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lou Beach",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/health\/05well_gluten\/05well_gluten-tmagArticle.jpg",
+              "format": "Large",
+              "height": 458,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lou Beach",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/health\/05well_gluten\/05well_gluten-hpMedium.jpg",
+              "format": "Large",
+              "height": 253,
+              "width": 337
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/health\/05well_gluten\/05well_gluten-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/09\/nyregion\/major-snowstorm-arriving-in-northeast.html",
+      "adx_keywords": "Snow and Snowstorms;Weather;Northeastern States (US);New York City;Massachusetts",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By KATHARINE Q. SEELYE",
+      "type": "Article",
+      "title": "Storm\u2019s Heavy Snow and High Winds Lash at the Northeast",
+      "abstract": "After a day of pelting wet snow, five states had called states of emergency, and Massachusetts had banned cars from every road in the state. Conditions quickly worsened after dusk fell.",
+      "published_date": "2013-02-09",
+      "source": "The New York Times",
+      "id": "100000002051330",
+      "asset_id": 1.0000000205133e+14,
+      "views": 539434,
+      "des_facet": [
+        "SNOW AND SNOWSTORMS",
+        "WEATHER"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY",
+        "MASSACHUSETTS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The storm dumped snow on Manhattan, as seen from the Brooklyn Heights Promenade.",
+          "copyright": "Brian Harkin for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lem Hernandez was out of luck when he finally had his turn at the pump after waiting at a gas station in Long Beach, N.Y. He got some gasoline before it ran out, but not enough to fill up.",
+          "copyright": "Chang W. Lee\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-slide-LV86\/20130209snow-slide-LV86-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-slide-LV86\/20130209snow-slide-LV86-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-slide-LV86\/20130209snow-slide-LV86-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-slide-LV86\/20130209snow-slide-LV86-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Louie Rodriguez of the New Bedford Forestry Department cut a fallen tree at an intersection in New Bedford, Mass., on Friday.",
+          "copyright": "Peter Pereira\/Standard Times, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/09Snow_4\/09Snow_4-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/09Snow_4\/09Snow_4-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/09Snow_4\/09Snow_4-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/09Snow_4\/09Snow_4-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Commuters headed home early, like these north of New York at the Croton-Harmon station.",
+          "copyright": "Suzanne DeChillo\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/JP-SNOW-1\/JP-SNOW-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/JP-SNOW-1\/JP-SNOW-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 131,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/JP-SNOW-1\/JP-SNOW-1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/JP-SNOW-1\/JP-SNOW-1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The storm dumped snow on Manhattan, as seen from the Brooklyn Heights Promenade.",
+          "copyright": "Brian Harkin for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/nyregion\/20130209snow-337-slide-5GB0\/20130209snow-337-slide-5GB0-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/10\/magazine\/why-can-some-kids-handle-pressure-while-others-fall-apart.html",
+      "adx_keywords": "Anxiety and Stress;Genetics and Heredity;Psychology and Psychologists;Tests and Examinations;Education (K-12);Taiwan;Children and Childhood",
+      "column": "",
+      "section": "Magazine",
+      "byline": "By PO BRONSON and ASHLEY MERRYMAN",
+      "type": "Article",
+      "title": "Why Can Some Kids Handle Pressure While Others Fall Apart?",
+      "abstract": "Scientists think bouts of panic in stressful situations can be traced to genetics. But don\u2019t freak out. Biology is not necessarily destiny.",
+      "published_date": "2013-02-10",
+      "source": "The New York Times",
+      "id": "100000002042419",
+      "asset_id": 1.0000000204242e+14,
+      "views": 492377,
+      "des_facet": [
+        "ANXIETY AND STRESS",
+        "TESTS AND EXAMINATIONS",
+        "CHILDREN AND CHILDHOOD"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "TAIWAN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students at Shaker Heights High School in Shaker Heights, Ohio, on Jan. 25, the day before they took the SAT or SAT math subject test. Clockwise from top left: Elana Ross, Linda Fan, Aryanna Jones,  Sasha Rae-Grant, Patrick Reed, Jeremy McMillan.",
+          "copyright": "Platon for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Students at Shaker Heights High School in Shaker Heights, Ohio, on Jan. 25, the day before they took the SAT or SAT math subject test. Clockwise from top left: Elana Ross, Linda Fan, Aryanna Jones,  Sasha Rae-Grant, Patrick Reed, Jeremy McMillan.",
+          "copyright": "Platon for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 122,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/magazine\/10warriors1\/10warriors1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/08\/nyregion\/northeast-could-be-hit-with-major-snowstorm.html",
+      "adx_keywords": "Weather;Snow and Snowstorms;Northeastern States (US);New York City;Massachusetts",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By MARC SANTORA",
+      "type": "Article",
+      "title": "Flights and Trains Canceled as Storm Heads to Northeast",
+      "abstract": "Local authorities from New York City to Maine were preparing Thursday for what forecasters said could be the heaviest snowfall to hit some cities in the Northeast in a century.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": "100000002048837",
+      "asset_id": 1.0000000204884e+14,
+      "views": 384819,
+      "des_facet": [
+        "WEATHER",
+        "SNOW AND SNOWSTORMS"
+      ],
+      "org_facet": [
+        "CONSOLIDATED EDISON INC",
+        "ED",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "NORTHEASTERN STATES (US)",
+        "NEW YORK CITY",
+        "MASSACHUSETTS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Jersey City, Jose Angelo, left, helped Isauro Palacios, a contractor from Belleville, N.J., as he loaded a new snow blower into the back of his truck Thursday as a snowstorm approached the region.",
+          "copyright": "Richard Perry\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A satellite image taken at 10:15 p.m. Eastern time Thursday. Areas in blue indicate colder cloud tops or deeper cloud cover. The system over the Midwest and the system spread across the East are expected to merge on Friday.",
+          "copyright": "National Weather Service",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/08weathermap315pm\/08weathermap315pm-thumbStandard-v6.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/08weathermap315pm\/08weathermap315pm-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 115,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/08weathermap315pm\/08weathermap315pm-sfSpan-v6.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/08weathermap315pm\/08weathermap315pm-thumbLarge-v6.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Jersey City, Jose Angelo, left, helped Isauro Palacios, a contractor from Belleville, N.J., as he loaded a new snow blower into the back of his truck Thursday as a snowstorm approached the region.",
+          "copyright": "Richard Perry\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/SNOW\/SNOW-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/us\/boy-is-safe-after-alabama-hostage-standoff.html",
+      "adx_keywords": "Hostages;Midland City (Ala);Dykes, Jimmy Lee;Murders and Attempted Murders;Alabama",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ROBBIE BROWN and CAMPBELL ROBERTSON",
+      "type": "Article",
+      "title": "Standoff in Alabama Ends in Boy\u2019s Rescue and Kidnapper\u2019s Death",
+      "abstract": "The man who held a five-year-old boy in a bunker for days was killed during a rescue operation by federal agents.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002043633",
+      "asset_id": 1.0000000204363e+14,
+      "views": 319208,
+      "des_facet": [
+        "HOSTAGES",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DYKES, JIMMY LEE"
+      ],
+      "geo_facet": [
+        "MIDLAND CITY (ALA)",
+        "ALABAMA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement personnel stationed themselves on the property of Jimmy Lee Dykes on Monday in Midland City, Ala.",
+          "copyright": "Joe Songer\/AL.com, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-articleInline.jpg",
+              "format": "Normal",
+              "height": 97,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jimmy Lee Dykes",
+          "copyright": "Alabama Department of Public Safety, via Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-articleInline.jpg",
+              "format": "Normal",
+              "height": 229,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage2\/05hostage2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement personnel stationed themselves on the property of Jimmy Lee Dykes on Monday in Midland City, Ala.",
+          "copyright": "Joe Songer\/AL.com, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-articleInline.jpg",
+              "format": "Normal",
+              "height": 97,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/us\/05hostage1_span\/05hostage1_span-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/08\/us\/former-los-angeles-police-officer-sought-in-shootings.html",
+      "adx_keywords": "Dorner, Christopher Jordan;Dorner, Christopher J;Attacks on Police;Murders and Attempted Murders;Los Angeles Police Department;California;Los Angeles (Calif)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By ADAM NAGOURNEY and IAN LOVETT",
+      "type": "Article",
+      "title": "Manhunt On for Ex-Officer Accused of Police Vendetta",
+      "abstract": "The Los Angeles police said a former officer was targeting members of the department and their families. His truck was found burned near a ski area east of Los Angeles.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": "100000002049309",
+      "asset_id": 1.0000000204931e+14,
+      "views": 286871,
+      "des_facet": [
+        "ATTACKS ON POLICE",
+        "MURDERS AND ATTEMPTED MURDERS"
+      ],
+      "org_facet": [
+        "LOS ANGELES POLICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "DORNER, CHRISTOPHER JORDAN",
+        "DORNER, CHRISTOPHER J"
+      ],
+      "geo_facet": [
+        "CALIFORNIA",
+        "LOS ANGELES (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A police cruiser in which an officer was shot in Corona, Calif.",
+          "copyright": "Alex Gallardo\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 95,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christopher J. Dorner, sought in three killings.",
+          "copyright": "Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/SHOOTING-camo\/SHOOTING-camo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/SHOOTING-camo\/JP-SHOOTING-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 271,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/SHOOTING-camo\/SHOOTING-camo-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/SHOOTING-camo\/SHOOTING-camo-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The truck, mistaken for one driven by the former officer who is on the run, was shot upon by police. The occupants were not hurt.",
+          "copyright": "Patrick Fallon\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-3\/JP-SHOOTING-3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-3\/JP-SHOOTING-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 116,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-3\/JP-SHOOTING-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-3\/JP-SHOOTING-3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "One victim, Monica Quan, 28, was the daughter of a former Los Angeles police captain whom the suspect had named as a target.",
+          "copyright": "Matt Brown\/Cal State Fullerton, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-quan\/JP-SHOOTING-1-1360281653642-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-quan\/JP-SHOOTING-1-1360281653642-articleInline.jpg",
+              "format": "Normal",
+              "height": 285,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-quan\/JP-SHOOTING-1-1360281653642-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-quan\/JP-SHOOTING-1-1360281653642-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Freeway signs urged drivers to look out for the suspect's vehicle.",
+          "copyright": "Kevork Djansezian\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-2-1360281809910\/JP-SHOOTING-2-1360281809910-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-2-1360281809910\/JP-SHOOTING-2-1360281809910-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-2-1360281809910\/JP-SHOOTING-2-1360281809910-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-2-1360281809910\/JP-SHOOTING-2-1360281809910-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A police cruiser in which an officer was shot in Corona, Calif.",
+          "copyright": "Alex Gallardo\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 95,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-SHOOTING-1\/JP-SHOOTING-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/08\/business\/restored-payroll-tax-pinches-those-with-the-smallest-checks.html",
+      "adx_keywords": "Payroll Tax;United States Economy;Consumer Confidence (Economic Indicator);Income Tax",
+      "column": "",
+      "section": "Business Day",
+      "byline": "By NELSON D. SCHWARTZ",
+      "type": "Article",
+      "title": "Restored Payroll Tax Pinches Those Who Earn the Least",
+      "abstract": "At street level, the pain from the expiration of a two-percentage-point break in Social Security taxes in 2011 and 2012 is evident.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": "100000002049191",
+      "asset_id": 1.0000000204919e+14,
+      "views": 280429,
+      "des_facet": [
+        "UNITED STATES ECONOMY",
+        "INCOME TAX"
+      ],
+      "org_facet": [
+        "WHOLE FOODS MARKET INC",
+        "WFM",
+        "NASDAQ",
+        "WAL-MART STORES INC",
+        "WMT",
+        "NYSE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eddie Phillips, who made $22,000 last year, has begun juggling bills, paying this one month and that the next.",
+          "copyright": "Todd Heisler\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jessica Price, 20, holds two jobs near her home in Orlando, Fla. She is buying cheaper food, though she worries it is less healthy.",
+          "copyright": "David Manning for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/Taxjp\/Taxjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/Taxjp\/Taxjp-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/Taxjp\/Taxjp-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/Taxjp\/Taxjp-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eddie Phillips, who made $22,000 last year, has begun juggling bills, paying this one month and that the next.",
+          "copyright": "Todd Heisler\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/business\/economy\/08tax-pic\/08tax-pic-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/09\/us\/california-police-officer-manhunt.html",
+      "adx_keywords": "Dorner, Christopher Jordan;Attacks on Police;Police;Los Angeles (Calif)",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By IAN LOVETT",
+      "type": "Article",
+      "title": "Cold Trail and Blizzard Hamper Search for Ex-Officer in California Killings",
+      "abstract": "As no new traces of Christopher J. Dorner, wanted in three shooting deaths, were found, the authorities wondered if he had somehow slipped through their fingers.",
+      "published_date": "2013-02-09",
+      "source": "The New York Times",
+      "id": "100000002051360",
+      "asset_id": 1.0000000205136e+14,
+      "views": 265550,
+      "des_facet": [
+        "ATTACKS ON POLICE",
+        "POLICE"
+      ],
+      "org_facet": [
+        "FACEBOOK INC",
+        "FB",
+        "NASDAQ",
+        "HONDA MOTOR CO LTD",
+        "HMC",
+        "NYSE"
+      ],
+      "per_facet": [
+        "DORNER, CHRISTOPHER JORDAN"
+      ],
+      "geo_facet": [
+        "LOS ANGELES (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In La Palma, Calif., on Friday, a forensic computer team and federal marshals searched the home of the mother of Christopher J. Dorner, his last known address.",
+          "copyright": "Monica Almeida\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In La Palma, Calif., on Friday, a forensic computer team and federal marshals searched the home of the mother of Christopher J. Dorner, his last known address.",
+          "copyright": "Monica Almeida\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/09\/us\/SHOOTING\/SHOOTING-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/08\/science\/common-ancestor-of-mammals-plucked-from-obscurity.html",
+      "adx_keywords": "Mammals;Paleontology;Evolution;Fossils;Science (Journal);National Science Foundation;American Museum of Natural History;Carnegie Museum of Natural History;O'Leary, Maureen A",
+      "column": "",
+      "section": "Science",
+      "byline": "By JOHN NOBLE WILFORD",
+      "type": "Article",
+      "title": "Rat-Size Ancestor Said to Link Man and Beast",
+      "abstract": "A lowly occupant of the fossil record, Protungulatum donnae, had anatomical characteristics for live births that anticipated all placental mammals, a Science report says.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": "100000002049108",
+      "asset_id": 1.0000000204911e+14,
+      "views": 263493,
+      "des_facet": [
+        "MAMMALS",
+        "PALEONTOLOGY"
+      ],
+      "org_facet": [
+        "SCIENCE (JOURNAL)",
+        "NATIONAL SCIENCE FOUNDATION",
+        "AMERICAN MUSEUM OF NATURAL HISTORY",
+        "CARNEGIE MUSEUM OF NATURAL HISTORY"
+      ],
+      "per_facet": [
+        "O'LEARY, MAUREEN A"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s rendering of a placental ancestor. Researchers say the small, insect-eating animal is the most likely common ancestor of the species on the most abundant and diverse branch of the mammalian family tree.",
+          "copyright": "Illustration by Carl Buell",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-articleInline.jpg",
+              "format": "Normal",
+              "height": 259,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Another Cretaceous-age animal found in the Gobi Desert in 1994, one of many used to study the mammalian tree of life.",
+          "copyright": "S. Goldberg, M. Novacek\/AMNH",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-MAMMAL\/JP-MAMMAL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-MAMMAL\/JP-MAMMAL-articleInline.jpg",
+              "format": "Normal",
+              "height": 232,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-MAMMAL\/JP-MAMMAL-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/us\/JP-MAMMAL\/JP-MAMMAL-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An artist’s rendering of a placental ancestor. Researchers say the small, insect-eating animal is the most likely common ancestor of the species on the most abundant and diverse branch of the mammalian family tree.",
+          "copyright": "Illustration by Carl Buell",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-articleInline.jpg",
+              "format": "Normal",
+              "height": 259,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/science\/mammal-render\/mammal-render-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/us\/chris-kyle-american-sniper-author-reported-killed.html",
+      "adx_keywords": "Kyle, Chris (1974-2013);Routh, Eddie Ray;Murders and Attempted Murders;American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History (Book);Navy Seals;Texas;Veterans",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By MANNY FERNANDEZ and MICHAEL SCHWIRTZ",
+      "type": "Article",
+      "title": "Untouchable in Iraq, Ex-Sniper Dies in a Shooting Back Home",
+      "abstract": "Chris Kyle, a former Navy SEAL, had taken a troubled fellow veteran to a gun range for a kind of therapy session, but the police said the man turned his gun on Mr. Kyle.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002041138",
+      "asset_id": 1.0000000204114e+14,
+      "views": 258988,
+      "des_facet": [
+        "MURDERS AND ATTEMPTED MURDERS",
+        "VETERANS"
+      ],
+      "org_facet": [
+        "NAVY SEALS"
+      ],
+      "per_facet": [
+        "KYLE, CHRIS (1974-2013)",
+        "ROUTH, EDDIE RAY"
+      ],
+      "geo_facet": [
+        "TEXAS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Kyle in 2012.",
+          "copyright": "Paul Moseley\/The Fort Worth Star-Telegram, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Kyle in 2012.",
+          "copyright": "Paul Moseley\/The Fort Worth Star-Telegram, via Associated Press",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 145,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/us\/04author_2\/04author_2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/07\/us\/postal-service-plans-to-end-saturday-delivery.html",
+      "adx_keywords": "Postal Service and Post Offices;Postal Service (US);Donahoe, Patrick R;Senate;House of Representatives",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By RON NIXON",
+      "type": "Article",
+      "title": "Trying to Stem Losses, Post Office Seeks to End Saturday Letter Delivery",
+      "abstract": "The Postal Service said a five-day mail delivery schedule would begin in August and would shave about $2 billion a year from its losses, which were $15.9 billion last year.",
+      "published_date": "2013-02-07",
+      "source": "The New York Times",
+      "id": "100000002046499",
+      "asset_id": 1.000000020465e+14,
+      "views": 254538,
+      "des_facet": [
+        "POSTAL SERVICE AND POST OFFICES"
+      ],
+      "org_facet": [
+        "POSTAL SERVICE (US)",
+        "SENATE",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "per_facet": [
+        "DONAHOE, PATRICK R"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Patrick R. Donahoe, the postmaster general, announcing the planned service change.",
+          "copyright": "Christopher Gregory\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/jp-POSTAL\/jp-POSTAL-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/jp-POSTAL\/jp-POSTAL-articleInline.jpg",
+              "format": "Normal",
+              "height": 123,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/jp-POSTAL\/jp-POSTAL-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/jp-POSTAL\/jp-POSTAL-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07postal-webgraphic\/07postal-webgraphic-thumbStandard.gif",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07postal-webgraphic\/07postal-webgraphic-thumbLarge.gif",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07postal-webgraphic\/07postal-webgraphic-articleInline.gif",
+              "format": "Normal",
+              "height": 283,
+              "width": 190
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grinje Fernandez, a letter carrier for the Postal Service, delivered mail in San Francisco's Richmond District on Wednesday.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Grinje Fernandez, a letter carrier for the Postal Service, delivered mail in San Francisco's Richmond District on Wednesday.",
+          "copyright": "Jim Wilson\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/07\/us\/07Postal_2\/07Postal_2-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/06\/world\/middleeast\/with-brennan-pick-a-light-on-drone-strikes-hazards.html",
+      "adx_keywords": "Drones (Pilotless Planes);Brennan, John O;Central Intelligence Agency;United States Defense and Military Forces;United States Special Operations Command;Targeted Killings;Terrorism;Yemen;Al Qaeda;Pakistan;Somalia",
+      "column": "",
+      "section": "World",
+      "byline": "By ROBERT F. WORTH, MARK MAZZETTI and SCOTT SHANE",
+      "type": "Article",
+      "title": "Drone Strikes\u2019 Risks to Get Rare Moment in the Public Eye",
+      "abstract": "The chief architect of a clandestine campaign of targeted killings, John O. Brennan, will face a Senate confirmation hearing as President Obama\u2019s nominee for C.I.A. director.",
+      "published_date": "2013-02-06",
+      "source": "The New York Times",
+      "id": "100000002046036",
+      "asset_id": 1.0000000204604e+14,
+      "views": 249927,
+      "des_facet": [
+        "DRONES (PILOTLESS PLANES)",
+        "TARGETED KILLINGS"
+      ],
+      "org_facet": [
+        "CENTRAL INTELLIGENCE AGENCY",
+        "UNITED STATES SPECIAL OPERATIONS COMMAND",
+        "AL QAEDA"
+      ],
+      "per_facet": [
+        "BRENNAN, JOHN O"
+      ],
+      "geo_facet": [
+        "YEMEN",
+        "PAKISTAN",
+        "SOMALIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tribesmen on the rubble of a building destroyed on Sunday in an American drone strike against suspected militants in Shabwa Province in southeastern Yemen. ",
+          "copyright": "Khaled Abdullah\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-1\/JP-BRENNAN-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-1\/JP-BRENNAN-1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-1\/JP-BRENNAN-1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-1\/JP-BRENNAN-1-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/middleeast\/06brennan\/06brennan-thumbStandard.gif",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/middleeast\/06brennan\/06brennan-thumbLarge.gif",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/middleeast\/06brennan\/06brennan-articleInline.gif",
+              "format": "Normal",
+              "height": 354,
+              "width": 190
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Brennan",
+          "copyright": "Jason Reed\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-articleInline.jpg",
+              "format": "Normal",
+              "height": 264,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-sfSpan.jpg",
+              "format": "Large",
+              "height": 270,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Kaual tribe in the capital, Sana, on Tuesday.  Two of their relatives died in a drone strike last month, they said.",
+          "copyright": "Samuel Aranda for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-2\/JP-BRENNAN-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-2\/JP-BRENNAN-2-articleInline.jpg",
+              "format": "Normal",
+              "height": 143,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-2\/JP-BRENNAN-2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-2\/JP-BRENNAN-2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“He’s probably had more power and influence than anyone in a comparable position on the last 20 years.” Daniel Benjamin<\/strong>, a former to<\/strong>p counterterrorism official at the State Department, speaking about John O. Brennan, President Obama's choice to lead the C.I.A.",
+          "copyright": "Brendan Smialowski\/Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-3\/JP-BRENNAN-3-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-3\/JP-BRENNAN-3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-3\/JP-BRENNAN-3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/JP-BRENNAN-3\/JP-BRENNAN-3-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John Brennan",
+          "copyright": "Jason Reed\/Reuters",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-articleInline.jpg",
+              "format": "Normal",
+              "height": 264,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-sfSpan.jpg",
+              "format": "Large",
+              "height": 270,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/world\/BRENNAN\/BRENNAN-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/04\/sports\/football\/beyonce-brings-intensity-to-halftime-show-and-silences-doubters.html",
+      "adx_keywords": "Football;Super Bowl;Knowles, Beyonce;Destiny's Child;Music",
+      "column": "",
+      "section": "Sports",
+      "byline": "By JON CARAMANICA",
+      "type": "Article",
+      "title": "Beyonc\u00e9 Silences Doubters With Intensity at Halftime",
+      "abstract": "Beyonc\u00e9 answered her critics during her halftime performance by singing live with fierceness and confidence. Late in her set, she was joined by her former sidekicks of Destiny\u2019s Child.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": "100000002042002",
+      "asset_id": 1.00000002042e+14,
+      "views": 220145,
+      "des_facet": [
+        "FOOTBALL",
+        "SUPER BOWL",
+        "MUSIC"
+      ],
+      "org_facet": [
+        "DESTINY'S CHILD"
+      ],
+      "per_facet": [
+        "KNOWLES, BEYONCE"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beyoncé opened her halftime performance with a serious tone, singing her hit “Love on Top.” Her voice was fierce and powerful for “Crazy in Love.”",
+          "copyright": "Jed Jacobsohn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-articleInline.jpg",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beyoncé opened her halftime performance with a serious tone, singing her hit “Love on Top.” Her voice was fierce and powerful for “Crazy in Love.”",
+          "copyright": "Jed Jacobsohn for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-articleInline.jpg",
+              "format": "Normal",
+              "height": 142,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/04\/sports\/SUB-halftime\/SUB-halftime-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/opinion\/brooks-the-philosophy-of-data.html",
+      "adx_keywords": "Data-Mining and Database Marketing;Statistics;Political Advertising;Psychology and Psychologists",
+      "column": "Op-Ed Columnist",
+      "section": "Opinion",
+      "byline": "By DAVID BROOKS",
+      "type": "Article",
+      "title": "The Philosophy of Data",
+      "abstract": "Our ability to gather and process huge amounts of data does many things, including correcting intuitive biases and illuminating patterns of behavior.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002043983",
+      "asset_id": 1.0000000204398e+14,
+      "views": 204881,
+      "des_facet": [
+        "DATA-MINING AND DATABASE MARKETING",
+        "STATISTICS",
+        "POLITICAL ADVERTISING",
+        "PSYCHOLOGY AND PSYCHOLOGISTS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Brooks",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-articleInline.jpg",
+              "format": "Normal",
+              "height": 240,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "David Brooks",
+          "copyright": "Josh Haner\/The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-articleInline.jpg",
+              "format": "Normal",
+              "height": 240,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2010\/09\/16\/opinion\/Brooks_New\/Brooks_New-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2013\/02\/08\/one-dish-one-hour\/",
+      "adx_keywords": "Recipes for Health; Beans; Cooking and Cookbooks; Medicine and Health; Recipes",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By TARA PARKER-POPE",
+      "type": "Blog",
+      "title": "One Dish, One Hour",
+      "abstract": "Want fast food? Try cooking up one of these one-dish, one-hour meals from Martha Rose Shulman.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": 24,
+      "asset_id": 24,
+      "views": 131891,
+      "des_facet": [
+        "BEANS",
+        "COOKING AND COOKBOOKS",
+        "MEDICINE AND HEALTH",
+        "RECIPES"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mushroom and spinach frittata.",
+          "copyright": "Andrew Scrivani for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/health\/recipehealth_frittata\/recipehealth_frittata-tmagArticle.jpg",
+              "format": "Large",
+              "height": 383,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/04recipehealth\/04recipehealth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/05recipehealth\/05recipehealth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/06recipehealth\/06recipehealth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/07recipehealth\/07recipehealth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/08recipehealth\/08recipehealth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mushroom and spinach frittata.",
+          "copyright": "Andrew Scrivani for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/health\/recipehealth_frittata\/recipehealth_frittata-hpMedium.jpg",
+              "format": "Large",
+              "height": 253,
+              "width": 337
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/health\/recipehealth_frittata\/recipehealth_frittata-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/travel.nytimes.com\/2013\/02\/10\/travel\/seven-days-on-the-queen-mary-2.html",
+      "adx_keywords": "Travel and Vacations;Cruises;Cunard Line Ltd",
+      "column": "",
+      "section": "Travel",
+      "byline": "By DWIGHT GARNER",
+      "type": "Article",
+      "title": "Seven Days on the Queen Mary 2",
+      "abstract": "Sex, food and the allure of the wintry North Atlantic aboard the biggest ocean liner in the world.",
+      "published_date": "2013-02-10",
+      "source": "The New York Times",
+      "id": "100000002043047",
+      "asset_id": 1.0000000204305e+14,
+      "views": 129726,
+      "des_facet": [
+        "TRAVEL AND VACATIONS"
+      ],
+      "org_facet": [
+        "CUNARD LINE LTD"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queen Mary 2 passes under the Verrazano-Narrows Bridge. It sails from the Brooklyn Cruise Terminal in Red Hook to Southampton, England.",
+          "copyright": "Michael Kirby Smith for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10QUEEN1_SPAN-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10SUBQUEEN1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10SUBQUEEN1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10QUEEN1_SPAN-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10PACKINGLISTGRAPHIC\/10PACKINGLISTGRAPHIC-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10PACKINGLISTGRAPHIC\/10PACKINGLISTGRAPHIC-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 308,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10PACKINGLISTGRAPHIC\/10PACKINGLISTGRAPHIC-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10PACKINGLISTGRAPHIC\/10PACKINGLISTGRAPHIC-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10GUIDE_GRAPHIC\/10GUIDE_GRAPHIC-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10GUIDE_GRAPHIC\/10GUIDE_GRAPHIC-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 216,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10GUIDE_GRAPHIC\/10GUIDE_GRAPHIC-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10GUIDE_GRAPHIC\/10GUIDE_GRAPHIC-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Queen Mary 2 passes under the Verrazano-Narrows Bridge. It sails from the Brooklyn Cruise Terminal in Red Hook to Southampton, England.",
+          "copyright": "Michael Kirby Smith for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10QUEEN1_SPAN-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10SUBQUEEN1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10SUBQUEEN1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/10\/travel\/10QUEEN1_SPAN\/10QUEEN1_SPAN-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/08\/nyregion\/bloomberg-builds-an-empire-in-london.html",
+      "adx_keywords": "Bloomberg, Michael R;London (England);Johnson, Boris;Philanthropy;Bloomberg LP",
+      "column": "",
+      "section": "N.Y. \/ Region",
+      "byline": "By MICHAEL M. GRYNBAUM",
+      "type": "Article",
+      "title": "For a Global Life, Bloomberg Builds His Own British Empire",
+      "abstract": "Michael R. Bloomberg, imagining life after City Hall, is exporting vast quantities of financial, social and political capital to London, where he has long yearned for influence.",
+      "published_date": "2013-02-08",
+      "source": "The New York Times",
+      "id": "100000002050736",
+      "asset_id": 1.0000000205074e+14,
+      "views": 127259,
+      "des_facet": "",
+      "org_facet": [
+        "BLOOMBERG LP"
+      ],
+      "per_facet": [
+        "BLOOMBERG, MICHAEL R",
+        "JOHNSON, BORIS"
+      ],
+      "geo_facet": [
+        "LONDON (ENGLAND)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bloomberg Place, under construction, will be the European home of Mayor Michael R. Bloomberg’s company and charity.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Archaeological workers on the Bloomberg Place site have found a  Roman era temple, 2,000-year-old bridge pilings and bowls and plates. All artifacts found at the site become the property of Bloomberg L.P.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3\/Y-LONDON3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3\/Y-LONDON3-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3\/Y-LONDON3-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3\/Y-LONDON3-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Workers at Bloomberg Place. By 2016, it will be home to a futuristic campus designed by the architect Norman Foster. It is to include a pair of undulating office buildings, pedestrian plazas, spaces for 390 bicycles and, if the mayor gets his way, branches of New York restaurants.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3sub\/Y-LONDON3sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3sub\/Y-LONDON3sub-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3sub\/Y-LONDON3sub-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON3sub\/Y-LONDON3sub-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The mayor with his girlfriend, Diana L. Taylor, left, and Patricia E. Harris, a deputy mayor, in London.",
+          "copyright": "Dafydd Jones",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON2\/Y-LONDON2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON2\/Y-LONDON2-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON2\/Y-LONDON2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON2\/Y-LONDON2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bloomberg Place, under construction, will be the European home of Mayor Michael R. Bloomberg’s company and charity.",
+          "copyright": "Andrew Testa for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/08\/nyregion\/Y-LONDON1\/Y-LONDON1-thumbLarge-v2.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/well.blogs.nytimes.com\/2013\/02\/04\/warning-too-late-for-some-babies\/",
+      "adx_keywords": "Babies; Babies and Infants; Infant Formulas; Medicine and Health; Necrotizing Enterocolitis; Premature Babies; Food and Drug Administration; SimplyThick LLC",
+      "column": "Well",
+      "section": "Health",
+      "byline": "By CATHERINE SAINT LOUIS",
+      "type": "Blog",
+      "title": "Warning Too Late for Some Babies",
+      "abstract": "An F.D.A. warning not to use a thickener with xanthan gum - a common food additive - for any infants comes after a number of deaths from intestinal damage.",
+      "published_date": "2013-02-04",
+      "source": "The New York Times",
+      "id": 24,
+      "asset_id": 24,
+      "views": 124108,
+      "des_facet": [
+        "BABIES AND INFANTS",
+        "INFANT FORMULAS",
+        "MEDICINE AND HEALTH",
+        "NECROTIZING ENTEROCOLITIS",
+        "PREMATURE BABIES"
+      ],
+      "org_facet": [
+        "FOOD AND DRUG ADMINISTRATION",
+        "SIMPLYTHICK LLC"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/science\/05THIC\/05THIC-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/05\/sports\/soccer\/investigation-finds-suspected-fixing-in-680-soccer-matches.html",
+      "adx_keywords": "Soccer;Frauds and Swindling;Organized Crime;Europe;Gambling;Great Britain;Europol",
+      "column": "",
+      "section": "Sports",
+      "byline": "By SAM BORDEN",
+      "type": "Article",
+      "title": "Police Call Match-Fixing Widespread in Soccer",
+      "abstract": "A 19-month investigation by a European intelligence agency found that nearly 700 games globally may have been fixed, with profits from the wide-ranging scandal totaling about $11 million.",
+      "published_date": "2013-02-05",
+      "source": "The New York Times",
+      "id": "100000002042301",
+      "asset_id": 1.000000020423e+14,
+      "views": 123592,
+      "des_facet": [
+        "SOCCER",
+        "ORGANIZED CRIME",
+        "GAMBLING"
+      ],
+      "org_facet": [
+        "EUROPOL"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "EUROPE",
+        "GREAT BRITAIN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Europol’s chief, Rob Wainwright, second from left, said hundreds of games might have been fixed.",
+          "copyright": "Robin Van Lonkhuijsen\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-articleInline.jpg",
+              "format": "Normal",
+              "height": 108,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Europol’s chief, Rob Wainwright, second from left, said hundreds of games might have been fixed.",
+          "copyright": "Robin Van Lonkhuijsen\/Agence France-Presse \u2014 Getty Images",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-articleInline.jpg",
+              "format": "Normal",
+              "height": 108,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/05\/sports\/jpFIXING\/jpFIXING-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/www.nytimes.com\/2013\/02\/06\/dining\/how-jesse-schenker-chef-at-recette-lost-55-pounds.html",
+      "adx_keywords": "Schenker, Jesse;Recette (Manhattan, NY, Restaurant);Diet and Nutrition;Cooking and Cookbooks;Chefs;Restaurants;Gullo, Stephen P",
+      "column": "",
+      "section": "Dining & Wine",
+      "byline": "By JEFF GORDINIER",
+      "type": "Article",
+      "title": "Winning a Losing Battle",
+      "abstract": "Jesse Schenker, the chef at Recette, has shown that even someone constantly surrounded by food can control his consumption enough to shed 55 pounds.",
+      "published_date": "2013-02-06",
+      "source": "The New York Times",
+      "id": "100000002043191",
+      "asset_id": 1.0000000204319e+14,
+      "views": 122742,
+      "des_facet": [
+        "COOKING AND COOKBOOKS",
+        "CHEFS",
+        "RESTAURANTS"
+      ],
+      "org_facet": [
+        "RECETTE (MANHATTAN, NY, RESTAURANT)"
+      ],
+      "per_facet": [
+        "SCHENKER, JESSE",
+        "GULLO, STEPHEN P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jesse Schenker, chef at Recette, has lost roughly one-fifth of his body weight.",
+          "copyright": "Karsten Moran for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-articleInline.jpg",
+              "format": "Normal",
+              "height": 137,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Curried egg salad, topped with sliced cucumber.",
+          "copyright": "Karsten Moran for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET_SPAN\/06DIET_SPAN-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET_SPAN\/06DIET_SPAN-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET_SPAN\/06DIET_SPAN-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET_SPAN\/06DIET_SPAN-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this egg salad, Greek yogurt stands in for mayonnaise. Mr. Schenker adds sriracha sauce.",
+          "copyright": "Karsten Moran for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET2\/06DIET2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET2\/06DIET2-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET2\/06DIET2-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET2\/06DIET2-thumbLarge.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jesse Schenker, chef at Recette, has lost roughly one-fifth of his body weight.",
+          "copyright": "Karsten Moran for The New York Times",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-articleInline.jpg",
+              "format": "Normal",
+              "height": 137,
+              "width": 190
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/06\/dining\/06DIET1\/06DIET1-thumbLarge-v3.jpg",
+              "format": "thumbLarge",
+              "height": 150,
+              "width": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http:\/\/opinionator.blogs.nytimes.com\/2013\/02\/02\/the-boys-at-the-back\/",
+      "adx_keywords": "Aviation High School (Queens, NY); Education (K-12); Men and Boys; Tests and Examinations",
+      "column": "The Great Divide",
+      "section": "Opinion",
+      "byline": "By CHRISTINA HOFF SOMMERS",
+      "type": "Blog",
+      "title": "The Boys at the Back",
+      "abstract": "Boys are being left behind in educational advancement. We need to address the reasons.",
+      "published_date": "2013-02-02",
+      "source": "The New York Times",
+      "id": 289,
+      "asset_id": 289,
+      "views": 118572,
+      "des_facet": [
+        "EDUCATION (K-12)",
+        "MEN AND BOYS",
+        "TESTS AND EXAMINATIONS"
+      ],
+      "org_facet": [
+        "AVIATION HIGH SCHOOL (QUEENS, NY)"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Javens",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/sunday-review\/03BOYS\/03BOYS-tmagArticle.jpg",
+              "format": "Large",
+              "height": 508,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ben Javens",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/2013\/02\/03\/sunday-review\/03BOYSJPsub\/03BOYSJPsub-tmagArticle.jpg",
+              "format": "Large",
+              "height": 318,
+              "width": 592
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "media-metadata": [
+            {
+              "url": "http:\/\/graphics8.nytimes.com\/images\/blogs_v3\/opinionator\/pogs\/greatdivide75.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
