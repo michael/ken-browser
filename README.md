@@ -86,10 +86,11 @@ There are a number of required properties that are used by the Ken interface. Th
 - `image` (option) - A image URL idaelly 1:1 aspect ratio. Shown in the plot and on the detail page.
 
 
+<!--
 ## Data Proxy
 
 You probably have a data-service already. However, the data needs to be converted into the Data.Collection format, so Ken can read it. This is rather simple. We wrote such a proxy ourselves, in order to turn the output of the New York Times Most Popular API into a representation our browser understands. We also use the proxy to generate a bigger dataset (we need multiple requests against the NYTimes API) which we cache so initial loading is fast. Every hour we regenerate the dataset so users see the latest stories of the New York times.
-
+-->
 
 ## Adjust Stylesheets
 
