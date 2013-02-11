@@ -105,7 +105,7 @@ You can adjust the style of your knowledge browser.
 Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request via GitHub.
 
 
-## Keep In sync With The Original Repo
+## Keep In Sync With The Original Repo
 
 Make sure you pull in changes from the original repo from time to time, so you can utilize the latest features and benefit from bugfixes.
 
