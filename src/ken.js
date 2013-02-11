@@ -97,6 +97,26 @@ _.extend(Ken.Session.prototype, _.Events, {
 
     // Join 'em together
     if (filters.length > 0) {
+
+      var filteredObjects = [];
+      _.each(filters, function(f) {
+        var objects = this.valueMap[f.property][f.value];
+        _.each(objects, function(o) {
+          registerMatch(o, [f.property, f.value]);
+          filteredObjects.push(o);
+        }, this);
+      }, this);
+
+      var OBJECTS_BY_RELEVANCE = function(item1, item2) {
+        var i1 = that.getMatchesForObject(item1);
+        var i2 = that.getMatchesForObject(item2);
+
+        return i1 === i2 ? 0 : (i1 > i2 ? -1 : 1);
+      };
+
+      filteredObjects = _.uniq(filteredObjects).sort(OBJECTS_BY_RELEVANCE);
+
+      // Construct new Data.Collection
       this.filteredCollection = new Data.Collection({
         "type": {
           "_id": this.collection.type._id,
@@ -105,20 +125,14 @@ _.extend(Ken.Session.prototype, _.Events, {
         },
         "objects": []
       });
-      _.each(filters, function(f) {
-        var objects = this.valueMap[f.property][f.value];
-        _.each(objects, function(o) {
-          registerMatch(o, [f.property, f.value]);
 
-          if (!this.filteredCollection.get(o._id)) this.filteredCollection.add(o);
-        }, this);
-      }, this);
+      _.each(filteredObjects, function(o) {
+        that.filteredCollection.add(o);
+      });
+
     } else {
       this.filteredCollection = this.collection;
     }
-
-    // Sort filtered collection
-    console.log(this.filteredCollection);
 
     this.trigger('data:changed');
   },
