@@ -117,6 +117,9 @@ _.extend(Ken.Session.prototype, _.Events, {
       this.filteredCollection = this.collection;
     }
 
+    // Sort filtered collection
+    console.log(this.filteredCollection);
+
     this.trigger('data:changed');
   },
 

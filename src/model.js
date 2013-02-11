@@ -7,16 +7,6 @@ VALUES_BY_FREQUENCY = function(item1, item2) {
     : (item1.value.referencedObjects.length > item2.value.referencedObjects.length ? -1 : 1);
 };
 
-// Load Items to populate the browser
-// ----------------
-
-// function loadItems(search, cb) {
-//   // $.getJSON('data/countries.json', function(data) {
-//     var collection = new Data.Collection(projects_fixture);
-//     var session = new Ken.Session(collection);
-//     cb(null, session);
-//   // });
-// }
 
 // Convert to desired format
 
@@ -123,8 +113,6 @@ function convertNYTArticles(data) {
         image = asset.url;
       } else {
         asset = _.find(a.media[0]["media-metadata"], function(a){ return a.format === "Standard Thumbnail"; });
-        console.log('asset found', asset);
-
         if (asset) image = asset.url; // a.media[0]["media-metadata"][4].url;
         if (image) image = image.replace(/thumbStandard.*\.jpg$/g, 'square320.jpg');
       }
@@ -160,13 +148,12 @@ function loadItems(file, cb) {
 
   $.getJSON(file, function(data) {
 
-    console.log("file", file);
-
     if (file.indexOf('raw')>=0) {
       var data = convertNYTArticles(data);
     }
 
-    console.log(JSON.stringify(data, null, '  '));
+    // console.log(JSON.stringify(data, null, '  '));
+
     var collection = new Data.Collection(data);
     var session = new Ken.Session(collection);
     cb(null, session);
