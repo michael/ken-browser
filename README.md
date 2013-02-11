@@ -1,6 +1,6 @@
 # Ken
 
-Ken is a visual browsing interface for exploring resources of different kinds. Let's suppose our first usecase will be browsing student projects in a visual manner.
+Ken is a visual browsing interface for exploring resources of different kinds. Here's how it looks like when a collection of NYTimes articles is visualized.
 
 ![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
 
@@ -31,7 +31,7 @@ $ python -m SimpleHTTPServer 8888 &
 
 By default Ken loads a static data-set, that can be found in `data/projects.json`. You can edit this file directly and make yourself comfortable with the data format.
 
-Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data-collection involves a `type` declaration and a sequence `objects` that are instances of the specified type. However after you've made yourself familiar with the data format, it's time to create your own data file `data/my_projects`.
+Ken gets powered by a so called `Data.Collection` a simple data format, that can be exchanged as JSON. A data collection involves a `type` declaration and a sequence of `objects` that are instances of the specified type. However after you've made yourself familiar with the data format, it's time to create your own data file `data/my_projects`.
 
 You can change the dataset that gets loaded by default by changing one line in index.html.
 
@@ -86,10 +86,11 @@ There are a number of required properties that are used by the Ken interface. Th
 - `image` (option) - A image URL idaelly 1:1 aspect ratio. Shown in the plot and on the detail page.
 
 
+<!--
 ## Data Proxy
 
 You probably have a data-service already. However, the data needs to be converted into the Data.Collection format, so Ken can read it. This is rather simple. We wrote such a proxy ourselves, in order to turn the output of the New York Times Most Popular API into a representation our browser understands. We also use the proxy to generate a bigger dataset (we need multiple requests against the NYTimes API) which we cache so initial loading is fast. Every hour we regenerate the dataset so users see the latest stories of the New York times.
-
+-->
 
 ## Adjust Stylesheets
 
@@ -104,7 +105,7 @@ You can adjust the style of your knowledge browser.
 Feel free to touch the Javascript code as well and adapt to your needs. If you think your contribution could be useful for the main project, please submit a pull request via GitHub.
 
 
-## Keep In sync With The Original Repo
+## Keep In Sync With The Original Repo
 
 Make sure you pull in changes from the original repo from time to time, so you can utilize the latest features and benefit from bugfixes.
 
