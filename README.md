@@ -1,6 +1,6 @@
 # Ken
 
-Ken is a visual browsing interface for exploring resources of different kinds. Let's suppose our first usecase will be browsing student projects in a visual manner.
+Ken is a visual browsing interface for exploring resources of different kinds. Here's how it looks like when a collection of NYTimes articles is visualized.
 
 ![](http://f.cl.ly/items/1R3P0C3V2R0k3b1l3L00/ken.png)
 
