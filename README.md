@@ -111,4 +111,4 @@ Make sure you pull in changes from the original repo from time to time, so you c
 
 ## Credits
 
-Ken is a project by [Quasipartikel](http://quasipartikel.at), made possible by our friends at [Ravensbourne](http://www.rave.co.uk), who have sponsored initial development.
+Ken is a project by [Quasipartikel](http://quasipartikel.at), made possible by our friends at [Ravensbourne](http://www.rave.co.uk), who are sponsoring initial development.
