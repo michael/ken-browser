@@ -4,10 +4,13 @@ Ken is a visual browsing interface for exploring resources of different kinds. H
 
 ![](http://f.cl.ly/items/3u0z0Z021z1I000e2Z0j/Screen%20Shot%202013-02-11%20at%2010.33.49%20AM.png)
 
-
 ## Integrate With Your Own Data
 
 Ken has been built for arbitary data-sets. So you should use it to display your own collection of things. It does not matter if it's a set of projects, a list of publications or a selection of products your company offers.
+
+Before digging into the details, here's some folks that have alredy integrated their data:
+
+- [Casey A. Gollan](http://caseyagollan.com/public/ken/)
 
 
 ### Check Out The Source Code
