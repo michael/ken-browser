@@ -407,7 +407,7 @@ Ken.Matrix = Backbone.View.extend({
       item: item,
       matches: this.model.getMatchesForObject(item)
     });
-    return $(html);
+    return $($.parseHTML(html));
   },
 
   // Initial render
