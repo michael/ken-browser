@@ -6,7 +6,7 @@ Ken is a visual browsing interface for exploring resources of different kinds. H
 
 ## Integrate With Your Own Data
 
-Ken has been built for arbitary data-sets. So you should use it to display your own collection of things. It does not matter if it's a set of projects, a list of publications or a selection of products your company offers.
+Ken has been built for arbitrary data-sets. So you should use it to display your own collection of things. It does not matter if it's a set of projects, a list of publications or a selection of products your company offers.
 
 Before digging into the details, here's some folks that have alredy integrated their data:
 
