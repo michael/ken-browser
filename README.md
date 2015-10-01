@@ -11,7 +11,7 @@ Ken has been built for arbitrary data-sets. So you should use it to display your
 Before digging into the details, here's some folks that have alredy integrated their data:
 
 - [Casey A. Gollan](http://caseyagollan.com/public/ken/)
-- [Politpressing in russia](http://politpressing.org/)
+- [Politpressing in Russia](http://politpressing.org/)
 
 ### Check Out The Source Code
 
